@@ -1,0 +1,3073 @@
+103.196.16.0/22	 VIETNAM POST	1,024
+103.196.16.0/24	 VIETNAM POST	256
+103.196.17.0/24	 VIETNAM POST	256
+103.196.18.0/24	 VIETNAM POST	256
+103.196.19.0/24	 VIETNAM POST	256
+103.221.86.0/24	 LienViet Joint Stock Commercial Bank	256
+103.61.48.0/22	 Sai Gon Join stock commercial Bank	1,024
+103.74.112.0/22	 VETC Corporation	1,024
+103.74.112.0/24	 VETC Corporation	256
+103.74.114.0/23	 VETC Corporation	512
+104.111.100.0/22	 Akamai Technologies, Inc.	1,024
+104.111.104.0/23	 Akamai Technologies, Inc.	512
+104.111.112.0/20	 Akamai Technologies, Inc.	4,096
+104.111.128.0/20	 Akamai Technologies, Inc.	4,096
+115.72.0.0/16	 Viettel Group	65,536
+115.72.0.0/21	 Viettel Group	2,048
+115.72.104.0/21	 Viettel Group	2,048
+115.72.112.0/21	 Viettel Group	2,048
+115.72.120.0/21	 Viettel Group	2,048
+115.72.128.0/21	 Viettel Group	2,048
+115.72.136.0/21	 Viettel Group	2,048
+115.72.144.0/21	 Viettel Group	2,048
+115.72.152.0/21	 Viettel Group	2,048
+115.72.160.0/21	 Viettel Group	2,048
+115.72.16.0/21	 Viettel Group	2,048
+115.72.168.0/21	 Viettel Group	2,048
+115.72.176.0/21	 Viettel Group	2,048
+115.72.184.0/21	 Viettel Group	2,048
+115.72.192.0/21	 Viettel Group	2,048
+115.72.200.0/21	 Viettel Group	2,048
+115.72.208.0/21	 Viettel Group	2,048
+115.72.216.0/21	 Viettel Group	2,048
+115.72.224.0/21	 Viettel Group	2,048
+115.72.232.0/21	 Viettel Group	2,048
+115.72.240.0/21	 Viettel Group	2,048
+115.72.24.0/21	 Viettel Group	2,048
+115.72.248.0/21	 Viettel Group	2,048
+115.72.32.0/21	 Viettel Group	2,048
+115.72.40.0/21	 Viettel Group	2,048
+115.72.48.0/21	 Viettel Group	2,048
+115.72.56.0/21	 Viettel Group	2,048
+115.72.64.0/22	 Viettel Group	1,024
+115.72.68.0/22	 Viettel Group	1,024
+115.72.72.0/22	 Viettel Group	1,024
+115.72.76.0/22	 Viettel Group	1,024
+115.72.80.0/21	 Viettel Group	2,048
+115.72.8.0/21	 Viettel Group	2,048
+115.72.88.0/21	 Viettel Group	2,048
+115.72.96.0/21	 Viettel Group	2,048
+115.73.0.0/16	 Viettel Group	65,536
+115.73.0.0/18	 Viettel Group	16,384
+115.73.0.0/21	 Viettel Group	2,048
+115.73.104.0/21	 Viettel Group	2,048
+115.73.112.0/21	 Viettel Group	2,048
+115.73.120.0/21	 Viettel Group	2,048
+115.73.128.0/18	 Viettel Group	16,384
+115.73.128.0/21	 Viettel Group	2,048
+115.73.136.0/21	 Viettel Group	2,048
+115.73.144.0/21	 Viettel Group	2,048
+115.73.152.0/21	 Viettel Group	2,048
+115.73.160.0/21	 Viettel Group	2,048
+115.73.16.0/21	 Viettel Group	2,048
+115.73.168.0/21	 Viettel Group	2,048
+115.73.176.0/21	 Viettel Group	2,048
+115.73.184.0/21	 Viettel Group	2,048
+115.73.192.0/18	 Viettel Group	16,384
+115.73.192.0/21	 Viettel Group	2,048
+115.73.200.0/21	 Viettel Group	2,048
+115.73.208.0/20	 Viettel Group	4,096
+115.73.208.0/21	 Viettel Group	2,048
+115.73.224.0/21	 Viettel Group	2,048
+115.73.232.0/21	 Viettel Group	2,048
+115.73.240.0/21	 Viettel Group	2,048
+115.73.24.0/21	 Viettel Group	2,048
+115.73.248.0/21	 Viettel Group	2,048
+115.73.32.0/21	 Viettel Group	2,048
+115.73.40.0/21	 Viettel Group	2,048
+115.73.48.0/21	 Viettel Group	2,048
+115.73.56.0/21	 Viettel Group	2,048
+115.73.64.0/18	 Viettel Group	16,384
+115.73.64.0/21	 Viettel Group	2,048
+115.73.72.0/21	 Viettel Group	2,048
+115.73.80.0/21	 Viettel Group	2,048
+115.73.8.0/21	 Viettel Group	2,048
+115.73.88.0/21	 Viettel Group	2,048
+115.73.96.0/21	 Viettel Group	2,048
+115.74.0.0/16	 Viettel Group	65,536
+115.74.0.0/18	 Viettel Group	16,384
+115.74.0.0/21	 Viettel Group	2,048
+115.74.104.0/21	 Viettel Group	2,048
+115.74.112.0/21	 Viettel Group	2,048
+115.74.120.0/21	 Viettel Group	2,048
+115.74.128.0/18	 Viettel Group	16,384
+115.74.128.0/21	 Viettel Group	2,048
+115.74.136.0/21	 Viettel Group	2,048
+115.74.144.0/21	 Viettel Group	2,048
+115.74.152.0/21	 Viettel Group	2,048
+115.74.160.0/21	 Viettel Group	2,048
+115.74.16.0/21	 Viettel Group	2,048
+115.74.168.0/21	 Viettel Group	2,048
+115.74.176.0/20	 Viettel Group	4,096
+115.74.176.0/24	 Viettel Group	256
+115.74.177.0/24	 Viettel Group	256
+115.74.179.0/24	 Viettel Group	256
+115.74.184.0/21	 Viettel Group	2,048
+115.74.192.0/18	 Viettel Group	16,384
+115.74.192.0/20	 Viettel Group	4,096
+115.74.192.0/24	 Viettel Group	256
+115.74.193.0/24	 Viettel Group	256
+115.74.194.0/24	 Viettel Group	256
+115.74.195.0/24	 Viettel Group	256
+115.74.196.0/24	 Viettel Group	256
+115.74.197.0/24	 Viettel Group	256
+115.74.198.0/24	 Viettel Group	256
+115.74.199.0/24	 Viettel Group	256
+115.74.200.0/23	 Viettel Group	512
+115.74.202.0/23	 Viettel Group	512
+115.74.204.0/24	 Viettel Group	256
+115.74.205.0/24	 Viettel Group	256
+115.74.206.0/24	 Viettel Group	256
+115.74.207.0/24	 Viettel Group	256
+115.74.208.0/20	 Viettel Group	4,096
+115.74.210.0/23	 Viettel Group	512
+115.74.212.0/24	 Viettel Group	256
+115.74.213.0/24	 Viettel Group	256
+115.74.214.0/24	 Viettel Group	256
+115.74.215.0/24	 Viettel Group	256
+115.74.217.0/24	 Viettel Group	256
+115.74.218.0/23	 Viettel Group	512
+115.74.220.0/23	 Viettel Group	512
+115.74.222.0/23	 Viettel Group	512
+115.74.224.0/20	 Viettel Group	4,096
+115.74.224.0/23	 Viettel Group	512
+115.74.226.0/24	 Viettel Group	256
+115.74.227.0/24	 Viettel Group	256
+115.74.228.0/24	 Viettel Group	256
+115.74.229.0/24	 Viettel Group	256
+115.74.230.0/24	 Viettel Group	256
+115.74.232.0/23	 Viettel Group	512
+115.74.235.0/24	 Viettel Group	256
+115.74.236.0/24	 Viettel Group	256
+115.74.237.0/24	 Viettel Group	256
+115.74.238.0/24	 Viettel Group	256
+115.74.240.0/20	 Viettel Group	4,096
+115.74.240.0/23	 Viettel Group	512
+115.74.24.0/21	 Viettel Group	2,048
+115.74.242.0/23	 Viettel Group	512
+115.74.244.0/24	 Viettel Group	256
+115.74.245.0/24	 Viettel Group	256
+115.74.246.0/24	 Viettel Group	256
+115.74.250.0/24	 Viettel Group	256
+115.74.255.0/24	 Viettel Group	256
+115.74.32.0/21	 Viettel Group	2,048
+115.74.40.0/21	 Viettel Group	2,048
+115.74.48.0/21	 Viettel Group	2,048
+115.74.56.0/21	 Viettel Group	2,048
+115.74.64.0/18	 Viettel Group	16,384
+115.74.64.0/21	 Viettel Group	2,048
+115.74.72.0/21	 Viettel Group	2,048
+115.74.80.0/21	 Viettel Group	2,048
+115.74.8.0/21	 Viettel Group	2,048
+115.74.88.0/21	 Viettel Group	2,048
+115.74.96.0/21	 Viettel Group	2,048
+115.75.0.0/16	 Viettel Group	65,536
+115.75.0.0/18	 Viettel Group	16,384
+115.75.0.0/20	 Viettel Group	4,096
+115.75.0.0/21	 Viettel Group	2,048
+115.75.10.0/24	 Viettel Group	256
+115.75.104.0/23	 Viettel Group	512
+115.75.106.0/24	 Viettel Group	256
+115.75.107.0/24	 Viettel Group	256
+115.75.108.0/24	 Viettel Group	256
+115.75.11.0/24	 Viettel Group	256
+115.75.112.0/20	 Viettel Group	4,096
+115.75.112.0/21	 Viettel Group	2,048
+115.75.112.0/22	 Viettel Group	1,024
+115.75.116.0/23	 Viettel Group	512
+115.75.118.0/24	 Viettel Group	256
+115.75.119.0/24	 Viettel Group	256
+115.75.120.0/22	 Viettel Group	1,024
+115.75.124.0/23	 Viettel Group	512
+115.75.126.0/24	 Viettel Group	256
+115.75.127.0/24	 Viettel Group	256
+115.75.128.0/18	 Viettel Group	16,384
+115.75.128.0/20	 Viettel Group	4,096
+115.75.128.0/21	 Viettel Group	2,048
+115.75.128.0/22	 Viettel Group	1,024
+115.75.132.0/23	 Viettel Group	512
+115.75.134.0/24	 Viettel Group	256
+115.75.135.0/24	 Viettel Group	256
+115.75.136.0/22	 Viettel Group	1,024
+115.75.140.0/23	 Viettel Group	512
+115.75.142.0/24	 Viettel Group	256
+115.75.143.0/24	 Viettel Group	256
+115.75.144.0/20	 Viettel Group	4,096
+115.75.144.0/21	 Viettel Group	2,048
+115.75.144.0/22	 Viettel Group	1,024
+115.75.148.0/23	 Viettel Group	512
+115.75.150.0/24	 Viettel Group	256
+115.75.151.0/24	 Viettel Group	256
+115.75.152.0/22	 Viettel Group	1,024
+115.75.156.0/23	 Viettel Group	512
+115.75.158.0/24	 Viettel Group	256
+115.75.159.0/24	 Viettel Group	256
+115.75.160.0/20	 Viettel Group	4,096
+115.75.160.0/21	 Viettel Group	2,048
+115.75.160.0/22	 Viettel Group	1,024
+115.75.16.0/20	 Viettel Group	4,096
+115.75.16.0/21	 Viettel Group	2,048
+115.75.164.0/23	 Viettel Group	512
+115.75.166.0/24	 Viettel Group	256
+115.75.167.0/24	 Viettel Group	256
+115.75.168.0/22	 Viettel Group	1,024
+115.75.172.0/23	 Viettel Group	512
+115.75.174.0/24	 Viettel Group	256
+115.75.175.0/24	 Viettel Group	256
+115.75.176.0/20	 Viettel Group	4,096
+115.75.176.0/21	 Viettel Group	2,048
+115.75.176.0/24	 Viettel Group	256
+115.75.177.0/24	 Viettel Group	256
+115.75.181.0/24	 Viettel Group	256
+115.75.186.0/24	 Viettel Group	256
+115.75.192.0/18	 Viettel Group	16,384
+115.75.192.0/19	 Viettel Group	8,192
+115.75.192.0/20	 Viettel Group	4,096
+115.75.192.0/21	 Viettel Group	2,048
+115.75.208.0/20	 Viettel Group	4,096
+115.75.208.0/21	 Viettel Group	2,048
+115.75.217.0/24	 Viettel Group	256
+115.75.218.0/24	 Viettel Group	256
+115.75.219.0/24	 Viettel Group	256
+115.75.220.0/24	 Viettel Group	256
+115.75.222.0/24	 Viettel Group	256
+115.75.224.0/21	 Viettel Group	2,048
+115.75.232.0/21	 Viettel Group	2,048
+115.75.240.0/21	 Viettel Group	2,048
+115.75.24.0/23	 Viettel Group	512
+115.75.248.0/21	 Viettel Group	2,048
+115.75.26.0/24	 Viettel Group	256
+115.75.27.0/24	 Viettel Group	256
+115.75.28.0/24	 Viettel Group	256
+115.75.32.0/20	 Viettel Group	4,096
+115.75.32.0/21	 Viettel Group	2,048
+115.75.40.0/23	 Viettel Group	512
+115.75.42.0/24	 Viettel Group	256
+115.75.43.0/24	 Viettel Group	256
+115.75.44.0/24	 Viettel Group	256
+115.75.48.0/20	 Viettel Group	4,096
+115.75.48.0/21	 Viettel Group	2,048
+115.75.48.0/22	 Viettel Group	1,024
+115.75.52.0/23	 Viettel Group	512
+115.75.54.0/24	 Viettel Group	256
+115.75.55.0/24	 Viettel Group	256
+115.75.56.0/22	 Viettel Group	1,024
+115.75.60.0/23	 Viettel Group	512
+115.75.62.0/24	 Viettel Group	256
+115.75.63.0/24	 Viettel Group	256
+115.75.64.0/18	 Viettel Group	16,384
+115.75.64.0/20	 Viettel Group	4,096
+115.75.64.0/21	 Viettel Group	2,048
+115.75.64.0/22	 Viettel Group	1,024
+115.75.68.0/23	 Viettel Group	512
+115.75.70.0/24	 Viettel Group	256
+115.75.71.0/24	 Viettel Group	256
+115.75.72.0/22	 Viettel Group	1,024
+115.75.76.0/23	 Viettel Group	512
+115.75.78.0/24	 Viettel Group	256
+115.75.79.0/24	 Viettel Group	256
+115.75.80.0/20	 Viettel Group	4,096
+115.75.80.0/21	 Viettel Group	2,048
+115.75.80.0/22	 Viettel Group	1,024
+115.75.8.0/23	 Viettel Group	512
+115.75.84.0/23	 Viettel Group	512
+115.75.86.0/24	 Viettel Group	256
+115.75.87.0/24	 Viettel Group	256
+115.75.88.0/22	 Viettel Group	1,024
+115.75.92.0/23	 Viettel Group	512
+115.75.94.0/24	 Viettel Group	256
+115.75.95.0/24	 Viettel Group	256
+115.75.96.0/20	 Viettel Group	4,096
+115.75.96.0/21	 Viettel Group	2,048
+115.76.0.0/16	 Viettel Group	65,536
+115.76.0.0/21	 Viettel Group	2,048
+115.76.104.0/21	 Viettel Group	2,048
+115.76.112.0/21	 Viettel Group	2,048
+115.76.120.0/21	 Viettel Group	2,048
+115.76.128.0/18	 Viettel Group	16,384
+115.76.128.0/21	 Viettel Group	2,048
+115.76.136.0/21	 Viettel Group	2,048
+115.76.144.0/21	 Viettel Group	2,048
+115.76.152.0/21	 Viettel Group	2,048
+115.76.160.0/21	 Viettel Group	2,048
+115.76.16.0/21	 Viettel Group	2,048
+115.76.168.0/21	 Viettel Group	2,048
+115.76.176.0/21	 Viettel Group	2,048
+115.76.184.0/21	 Viettel Group	2,048
+115.76.192.0/18	 Viettel Group	16,384
+115.76.192.0/21	 Viettel Group	2,048
+115.76.200.0/21	 Viettel Group	2,048
+115.76.208.0/21	 Viettel Group	2,048
+115.76.216.0/21	 Viettel Group	2,048
+115.76.224.0/21	 Viettel Group	2,048
+115.76.232.0/21	 Viettel Group	2,048
+115.76.240.0/21	 Viettel Group	2,048
+115.76.24.0/21	 Viettel Group	2,048
+115.76.248.0/21	 Viettel Group	2,048
+115.76.32.0/21	 Viettel Group	2,048
+115.76.40.0/21	 Viettel Group	2,048
+115.76.48.0/21	 Viettel Group	2,048
+115.76.56.0/21	 Viettel Group	2,048
+115.76.64.0/21	 Viettel Group	2,048
+115.76.72.0/21	 Viettel Group	2,048
+115.76.80.0/21	 Viettel Group	2,048
+115.76.8.0/21	 Viettel Group	2,048
+115.76.88.0/21	 Viettel Group	2,048
+115.76.96.0/21	 Viettel Group	2,048
+115.77.0.0/16	 Viettel Group	65,536
+115.77.0.0/18	 Viettel Group	16,384
+115.77.0.0/21	 Viettel Group	2,048
+115.77.104.0/21	 Viettel Group	2,048
+115.77.112.0/21	 Viettel Group	2,048
+115.77.120.0/21	 Viettel Group	2,048
+115.77.128.0/18	 Viettel Group	16,384
+115.77.128.0/21	 Viettel Group	2,048
+115.77.136.0/21	 Viettel Group	2,048
+115.77.144.0/21	 Viettel Group	2,048
+115.77.152.0/21	 Viettel Group	2,048
+115.77.160.0/21	 Viettel Group	2,048
+115.77.16.0/21	 Viettel Group	2,048
+115.77.168.0/21	 Viettel Group	2,048
+115.77.176.0/20	 Viettel Group	4,096
+115.77.176.0/21	 Viettel Group	2,048
+115.77.192.0/18	 Viettel Group	16,384
+115.77.192.0/21	 Viettel Group	2,048
+115.77.200.0/21	 Viettel Group	2,048
+115.77.208.0/21	 Viettel Group	2,048
+115.77.216.0/21	 Viettel Group	2,048
+115.77.224.0/21	 Viettel Group	2,048
+115.77.232.0/21	 Viettel Group	2,048
+115.77.240.0/21	 Viettel Group	2,048
+115.77.24.0/21	 Viettel Group	2,048
+115.77.248.0/21	 Viettel Group	2,048
+115.77.32.0/21	 Viettel Group	2,048
+115.77.40.0/21	 Viettel Group	2,048
+115.77.48.0/21	 Viettel Group	2,048
+115.77.56.0/21	 Viettel Group	2,048
+115.77.64.0/18	 Viettel Group	16,384
+115.77.64.0/21	 Viettel Group	2,048
+115.77.72.0/21	 Viettel Group	2,048
+115.77.80.0/21	 Viettel Group	2,048
+115.77.8.0/21	 Viettel Group	2,048
+115.77.88.0/21	 Viettel Group	2,048
+115.77.96.0/21	 Viettel Group	2,048
+115.78.0.0/16	 Viettel Group	65,536
+115.78.0.0/18	 Viettel Group	16,384
+115.78.0.0/20	 Viettel Group	4,096
+115.78.0.0/21	 Viettel Group	2,048
+115.78.104.0/21	 Viettel Group	2,048
+115.78.112.0/20	 Viettel Group	4,096
+115.78.112.0/21	 Viettel Group	2,048
+115.78.128.0/18	 Viettel Group	16,384
+115.78.128.0/20	 Viettel Group	4,096
+115.78.128.0/21	 Viettel Group	2,048
+115.78.144.0/20	 Viettel Group	4,096
+115.78.144.0/21	 Viettel Group	2,048
+115.78.160.0/20	 Viettel Group	4,096
+115.78.160.0/21	 Viettel Group	2,048
+115.78.16.0/20	 Viettel Group	4,096
+115.78.16.0/21	 Viettel Group	2,048
+115.78.176.0/20	 Viettel Group	4,096
+115.78.176.0/21	 Viettel Group	2,048
+115.78.192.0/18	 Viettel Group	16,384
+115.78.192.0/20	 Viettel Group	4,096
+115.78.192.0/21	 Viettel Group	2,048
+115.78.208.0/20	 Viettel Group	4,096
+115.78.208.0/21	 Viettel Group	2,048
+115.78.224.0/20	 Viettel Group	4,096
+115.78.224.0/21	 Viettel Group	2,048
+115.78.240.0/20	 Viettel Group	4,096
+115.78.240.0/21	 Viettel Group	2,048
+115.78.32.0/20	 Viettel Group	4,096
+115.78.32.0/21	 Viettel Group	2,048
+115.78.48.0/20	 Viettel Group	4,096
+115.78.48.0/21	 Viettel Group	2,048
+115.78.64.0/18	 Viettel Group	16,384
+115.78.64.0/20	 Viettel Group	4,096
+115.78.64.0/21	 Viettel Group	2,048
+115.78.80.0/20	 Viettel Group	4,096
+115.78.80.0/21	 Viettel Group	2,048
+115.78.96.0/20	 Viettel Group	4,096
+115.78.96.0/21	 Viettel Group	2,048
+115.79.0.0/16	 Viettel Group	65,536
+115.79.0.0/18	 Viettel Group	16,384
+115.79.0.0/20	 Viettel Group	4,096
+115.79.0.0/22	 Viettel Group	1,024
+115.79.112.0/20	 Viettel Group	4,096
+115.79.112.0/21	 Viettel Group	2,048
+115.79.128.0/18	 Viettel Group	16,384
+115.79.128.0/20	 Viettel Group	4,096
+115.79.128.0/21	 Viettel Group	2,048
+115.79.136.0/21	 Viettel Group	2,048
+115.79.144.0/21	 Viettel Group	2,048
+115.79.152.0/21	 Viettel Group	2,048
+115.79.160.0/21	 Viettel Group	2,048
+115.79.16.0/20	 Viettel Group	4,096
+115.79.16.0/21	 Viettel Group	2,048
+115.79.168.0/21	 Viettel Group	2,048
+115.79.176.0/21	 Viettel Group	2,048
+115.79.184.0/21	 Viettel Group	2,048
+115.79.192.0/18	 Viettel Group	16,384
+115.79.192.0/19	 Viettel Group	8,192
+115.79.192.0/20	 Viettel Group	4,096
+115.79.192.0/21	 Viettel Group	2,048
+115.79.200.0/21	 Viettel Group	2,048
+115.79.208.0/20	 Viettel Group	4,096
+115.79.208.0/21	 Viettel Group	2,048
+115.79.224.0/21	 Viettel Group	2,048
+115.79.232.0/21	 Viettel Group	2,048
+115.79.240.0/22	 Viettel Group	1,024
+115.79.244.0/22	 Viettel Group	1,024
+115.79.248.0/22	 Viettel Group	1,024
+115.79.32.0/20	 Viettel Group	4,096
+115.79.32.0/21	 Viettel Group	2,048
+115.79.4.0/22	 Viettel Group	1,024
+115.79.48.0/20	 Viettel Group	4,096
+115.79.48.0/21	 Viettel Group	2,048
+115.79.64.0/18	 Viettel Group	16,384
+115.79.64.0/20	 Viettel Group	4,096
+115.79.64.0/21	 Viettel Group	2,048
+115.79.80.0/20	 Viettel Group	4,096
+115.79.80.0/21	 Viettel Group	2,048
+115.79.8.0/22	 Viettel Group	1,024
+115.79.96.0/20	 Viettel Group	4,096
+115.79.96.0/21	 Viettel Group	2,048
+116.101.0.0/16	 Viettel Group	65,536
+116.101.112.0/21	 Viettel Group	2,048
+116.101.120.0/21	 Viettel Group	2,048
+116.101.128.0/21	 Viettel Group	2,048
+116.101.136.0/21	 Viettel Group	2,048
+116.101.144.0/21	 Viettel Group	2,048
+116.101.152.0/21	 Viettel Group	2,048
+116.101.160.0/21	 Viettel Group	2,048
+116.101.16.0/21	 Viettel Group	2,048
+116.101.168.0/21	 Viettel Group	2,048
+116.101.176.0/21	 Viettel Group	2,048
+116.101.184.0/22	 Viettel Group	1,024
+116.101.188.0/23	 Viettel Group	512
+116.101.190.0/23	 Viettel Group	512
+116.101.192.0/20	 Viettel Group	4,096
+116.101.208.0/21	 Viettel Group	2,048
+116.101.216.0/21	 Viettel Group	2,048
+116.101.224.0/21	 Viettel Group	2,048
+116.101.232.0/21	 Viettel Group	2,048
+116.101.240.0/20	 Viettel Group	4,096
+116.101.240.0/21	 Viettel Group	2,048
+116.101.24.0/21	 Viettel Group	2,048
+116.101.48.0/22	 Viettel Group	1,024
+116.101.52.0/22	 Viettel Group	1,024
+116.101.56.0/22	 Viettel Group	1,024
+116.101.80.0/22	 Viettel Group	1,024
+116.101.84.0/22	 Viettel Group	1,024
+116.101.88.0/22	 Viettel Group	1,024
+116.101.92.0/22	 Viettel Group	1,024
+116.101.96.0/20	 Viettel Group	4,096
+116.102.112.0/21	 Viettel Group	2,048
+116.102.120.0/21	 Viettel Group	2,048
+116.104.0.0/20	 Viettel Group	4,096
+116.104.0.0/21	 Viettel Group	2,048
+116.104.104.0/21	 Viettel Group	2,048
+116.104.112.0/20	 Viettel Group	4,096
+116.104.12.0/22	 Viettel Group	1,024
+116.104.128.0/21	 Viettel Group	2,048
+116.104.136.0/21	 Viettel Group	2,048
+116.104.144.0/21	 Viettel Group	2,048
+116.104.152.0/22	 Viettel Group	1,024
+116.104.156.0/22	 Viettel Group	1,024
+116.104.160.0/21	 Viettel Group	2,048
+116.104.16.0/20	 Viettel Group	4,096
+116.104.168.0/21	 Viettel Group	2,048
+116.104.176.0/21	 Viettel Group	2,048
+116.104.184.0/21	 Viettel Group	2,048
+116.104.192.0/21	 Viettel Group	2,048
+116.104.200.0/21	 Viettel Group	2,048
+116.104.208.0/21	 Viettel Group	2,048
+116.104.216.0/21	 Viettel Group	2,048
+116.104.224.0/21	 Viettel Group	2,048
+116.104.240.0/21	 Viettel Group	2,048
+116.104.248.0/21	 Viettel Group	2,048
+116.104.32.0/21	 Viettel Group	2,048
+116.104.40.0/21	 Viettel Group	2,048
+116.104.48.0/24	 Viettel Group	256
+116.104.49.0/24	 Viettel Group	256
+116.104.50.0/23	 Viettel Group	512
+116.104.52.0/22	 Viettel Group	1,024
+116.104.56.0/21	 Viettel Group	2,048
+116.104.64.0/20	 Viettel Group	4,096
+116.104.80.0/21	 Viettel Group	2,048
+116.104.8.0/22	 Viettel Group	1,024
+116.104.88.0/21	 Viettel Group	2,048
+116.104.96.0/21	 Viettel Group	2,048
+116.106.104.0/21	 Viettel Group	2,048
+116.106.96.0/21	 Viettel Group	2,048
+116.107.0.0/17	 Viettel Group	32,768
+116.107.0.0/20	 Viettel Group	4,096
+116.107.104.0/21	 Viettel Group	2,048
+116.107.112.0/21	 Viettel Group	2,048
+116.107.120.0/21	 Viettel Group	2,048
+116.107.128.0/17	 Viettel Group	32,768
+116.107.128.0/20	 Viettel Group	4,096
+116.107.144.0/20	 Viettel Group	4,096
+116.107.152.0/21	 Viettel Group	2,048
+116.107.160.0/20	 Viettel Group	4,096
+116.107.16.0/21	 Viettel Group	2,048
+116.107.176.0/20	 Viettel Group	4,096
+116.107.192.0/20	 Viettel Group	4,096
+116.107.208.0/21	 Viettel Group	2,048
+116.107.216.0/22	 Viettel Group	1,024
+116.107.220.0/22	 Viettel Group	1,024
+116.107.224.0/21	 Viettel Group	2,048
+116.107.232.0/21	 Viettel Group	2,048
+116.107.240.0/21	 Viettel Group	2,048
+116.107.24.0/21	 Viettel Group	2,048
+116.107.248.0/21	 Viettel Group	2,048
+116.107.32.0/21	 Viettel Group	2,048
+116.107.40.0/21	 Viettel Group	2,048
+116.107.48.0/21	 Viettel Group	2,048
+116.107.56.0/21	 Viettel Group	2,048
+116.107.64.0/21	 Viettel Group	2,048
+116.107.72.0/21	 Viettel Group	2,048
+116.107.80.0/21	 Viettel Group	2,048
+116.107.88.0/21	 Viettel Group	2,048
+116.107.96.0/21	 Viettel Group	2,048
+116.111.0.0/17	 Viettel Group	32,768
+116.111.104.0/23	 Viettel Group	512
+116.111.106.0/23	 Viettel Group	512
+116.111.108.0/22	 Viettel Group	1,024
+116.111.112.0/21	 Viettel Group	2,048
+116.111.120.0/21	 Viettel Group	2,048
+116.111.16.0/21	 Viettel Group	2,048
+116.111.24.0/21	 Viettel Group	2,048
+116.111.248.0/21	 Viettel Group	2,048
+116.111.32.0/21	 Viettel Group	2,048
+116.111.40.0/21	 Viettel Group	2,048
+116.111.48.0/20	 Viettel Group	4,096
+116.111.64.0/21	 Viettel Group	2,048
+116.111.72.0/21	 Viettel Group	2,048
+116.111.80.0/21	 Viettel Group	2,048
+116.111.88.0/21	 Viettel Group	2,048
+116.111.96.0/21	 Viettel Group	2,048
+116.96.0.0/24	 Viettel Group	256
+116.96.1.0/24	 Viettel Group	256
+116.96.104.0/21	 Viettel Group	2,048
+116.96.112.0/21	 Viettel Group	2,048
+116.96.120.0/21	 Viettel Group	2,048
+116.96.128.0/20	 Viettel Group	4,096
+116.96.128.0/21	 Viettel Group	2,048
+116.96.128.0/24	 Viettel Group	256
+116.96.136.0/21	 Viettel Group	2,048
+116.96.144.0/21	 Viettel Group	2,048
+116.96.152.0/21	 Viettel Group	2,048
+116.96.160.0/21	 Viettel Group	2,048
+116.96.16.0/21	 Viettel Group	2,048
+116.96.176.0/21	 Viettel Group	2,048
+116.96.184.0/21	 Viettel Group	2,048
+116.96.192.0/20	 Viettel Group	4,096
+116.96.2.0/24	 Viettel Group	256
+116.96.208.0/21	 Viettel Group	2,048
+116.96.216.0/21	 Viettel Group	2,048
+116.96.224.0/22	 Viettel Group	1,024
+116.96.228.0/23	 Viettel Group	512
+116.96.230.0/23	 Viettel Group	512
+116.96.232.0/21	 Viettel Group	2,048
+116.96.240.0/21	 Viettel Group	2,048
+116.96.24.0/21	 Viettel Group	2,048
+116.96.248.0/21	 Viettel Group	2,048
+116.96.3.0/24	 Viettel Group	256
+116.96.32.0/20	 Viettel Group	4,096
+116.96.48.0/21	 Viettel Group	2,048
+116.96.5.0/24	 Viettel Group	256
+116.96.56.0/21	 Viettel Group	2,048
+116.96.6.0/23	 Viettel Group	512
+116.96.64.0/22	 Viettel Group	1,024
+116.96.68.0/22	 Viettel Group	1,024
+116.96.72.0/22	 Viettel Group	1,024
+116.96.76.0/22	 Viettel Group	1,024
+116.96.80.0/21	 Viettel Group	2,048
+116.96.8.0/21	 Viettel Group	2,048
+116.96.88.0/21	 Viettel Group	2,048
+116.96.96.0/21	 Viettel Group	2,048
+116.97.0.0/21	 Viettel Group	2,048
+116.97.104.0/23	 Viettel Group	512
+116.97.106.0/23	 Viettel Group	512
+116.97.108.0/24	 Viettel Group	256
+116.97.109.0/24	 Viettel Group	256
+116.97.110.0/24	 Viettel Group	256
+116.97.115.0/24	 Viettel Group	256
+116.97.120.0/21	 Viettel Group	2,048
+116.97.128.0/21	 Viettel Group	2,048
+116.97.136.0/21	 Viettel Group	2,048
+116.97.144.0/21	 Viettel Group	2,048
+116.97.152.0/21	 Viettel Group	2,048
+116.97.160.0/21	 Viettel Group	2,048
+116.97.16.0/21	 Viettel Group	2,048
+116.97.168.0/21	 Viettel Group	2,048
+116.97.176.0/22	 Viettel Group	1,024
+116.97.180.0/22	 Viettel Group	1,024
+116.97.184.0/21	 Viettel Group	2,048
+116.97.192.0/21	 Viettel Group	2,048
+116.97.200.0/22	 Viettel Group	1,024
+116.97.204.0/22	 Viettel Group	1,024
+116.97.208.0/20	 Viettel Group	4,096
+116.97.224.0/20	 Viettel Group	4,096
+116.97.240.0/23	 Viettel Group	512
+116.97.24.0/22	 Viettel Group	1,024
+116.97.242.0/24	 Viettel Group	256
+116.97.243.0/24	 Viettel Group	256
+116.97.244.0/24	 Viettel Group	256
+116.97.245.0/24	 Viettel Group	256
+116.97.246.0/24	 Viettel Group	256
+116.97.247.0/24	 Viettel Group	256
+116.97.248.0/21	 Viettel Group	2,048
+116.97.28.0/22	 Viettel Group	1,024
+116.97.32.0/20	 Viettel Group	4,096
+116.97.48.0/22	 Viettel Group	1,024
+116.97.52.0/22	 Viettel Group	1,024
+116.97.56.0/21	 Viettel Group	2,048
+116.97.64.0/20	 Viettel Group	4,096
+116.97.80.0/20	 Viettel Group	4,096
+116.97.8.0/21	 Viettel Group	2,048
+116.97.96.0/21	 Viettel Group	2,048
+116.98.112.0/21	 Viettel Group	2,048
+116.98.120.0/21	 Viettel Group	2,048
+116.99.64.0/21	 Viettel Group	2,048
+116.99.72.0/21	 Viettel Group	2,048
+117.0.0.0/15	 Dai IP cho dich vu ADSL HNI	131,072
+117.0.0.0/18	 ADSL HNI	16,384
+117.0.0.0/20	 ADSL HNI	4,096
+117.0.104.0/21	 ADSL HNI	2,048
+117.0.112.0/21	 ADSL HNI	2,048
+117.0.116.0/22	 ADSL HNI	1,024
+117.0.120.0/21	 ADSL HNI	2,048
+117.0.128.0/21	 ADSL HNI	2,048
+117.0.136.0/21	 ADSL HNI	2,048
+117.0.144.0/21	 ADSL HNI	2,048
+117.0.152.0/21	 ADSL HNI	2,048
+117.0.160.0/20	 ADSL HNI	4,096
+117.0.16.0/22	 ADSL HNI	1,024
+117.0.176.0/20	 ADSL HNI	4,096
+117.0.192.0/20	 ADSL HNI	4,096
+117.0.20.0/24	 ADSL HNI	256
+117.0.208.0/21	 ADSL HNI	2,048
+117.0.21.0/24	 ADSL HNI	256
+117.0.216.0/21	 ADSL HNI	2,048
+117.0.22.0/24	 ADSL HNI	256
+117.0.224.0/21	 ADSL HNI	2,048
+117.0.23.0/24	 ADSL HNI	256
+117.0.232.0/21	 ADSL HNI	2,048
+117.0.240.0/21	 ADSL HNI	2,048
+117.0.24.0/23	 ADSL HNI	512
+117.0.248.0/21	 ADSL HNI	2,048
+117.0.28.0/22	 ADSL HNI	1,024
+117.0.32.0/21	 ADSL HNI	2,048
+117.0.40.0/21	 ADSL HNI	2,048
+117.0.48.0/20	 ADSL HNI	4,096
+117.0.64.0/20	 ADSL HNI	4,096
+117.0.80.0/21	 ADSL HNI	2,048
+117.0.88.0/21	 ADSL HNI	2,048
+117.0.96.0/21	 ADSL HNI	2,048
+117.1.0.0/20	 Dai IP cho dich vu ADSL HNI	4,096
+117.1.10.0/23	 Dai IP cho dich vu ADSL HNI	512
+117.1.104.0/21	 Dai IP cho dich vu ADSL HNI	2,048
+117.1.112.0/20	 Dai IP cho dich vu ADSL HNI	4,096
+117.1.112.0/21	 Dai IP cho dich vu ADSL HNI	2,048
+117.1.120.0/21	 Dai IP cho dich vu ADSL HNI	2,048
+117.1.128.0/20	 Dai IP cho dich vu ADSL HNI	4,096
+117.1.144.0/21	 Dai IP cho dich vu ADSL HNI	2,048
+117.1.152.0/21	 Dai IP cho dich vu ADSL HNI	2,048
+117.1.160.0/21	 Dai IP cho dich vu ADSL HNI	2,048
+117.1.16.0/20	 Dai IP cho dich vu ADSL HNI	4,096
+117.1.16.0/24	 Dai IP cho dich vu ADSL HNI	256
+117.1.168.0/21	 Dai IP cho dich vu ADSL HNI	2,048
+117.1.17.0/24	 Dai IP cho dich vu ADSL HNI	256
+117.1.176.0/21	 Dai IP cho dich vu ADSL HNI	2,048
+117.1.18.0/24	 Dai IP cho dich vu ADSL HNI	256
+117.1.184.0/21	 Dai IP cho dich vu ADSL HNI	2,048
+117.1.19.0/24	 Dai IP cho dich vu ADSL HNI	256
+117.1.192.0/21	 Dai IP cho dich vu ADSL HNI	2,048
+117.1.200.0/21	 Dai IP cho dich vu ADSL HNI	2,048
+117.1.20.0/22	 Dai IP cho dich vu ADSL HNI	1,024
+117.1.208.0/20	 Dai IP cho dich vu ADSL HNI	4,096
+117.1.224.0/21	 Dai IP cho dich vu ADSL HNI	2,048
+117.1.232.0/21	 Dai IP cho dich vu ADSL HNI	2,048
+117.1.240.0/24	 Dai IP cho dich vu ADSL HNI	256
+117.1.24.0/21	 Dai IP cho dich vu ADSL HNI	2,048
+117.1.241.0/24	 Dai IP cho dich vu ADSL HNI	256
+117.1.242.0/23	 Dai IP cho dich vu ADSL HNI	512
+117.1.244.0/23	 Dai IP cho dich vu ADSL HNI	512
+117.1.246.0/24	 Dai IP cho dich vu ADSL HNI	256
+117.1.247.0/24	 Dai IP cho dich vu ADSL HNI	256
+117.1.248.0/22	 Dai IP cho dich vu ADSL HNI	1,024
+117.1.252.0/22	 Dai IP cho dich vu ADSL HNI	1,024
+117.1.32.0/21	 Dai IP cho dich vu ADSL HNI	2,048
+117.1.40.0/21	 Dai IP cho dich vu ADSL HNI	2,048
+117.1.48.0/22	 Dai IP cho dich vu ADSL HNI	1,024
+117.1.52.0/23	 Dai IP cho dich vu ADSL HNI	512
+117.1.54.0/23	 Dai IP cho dich vu ADSL HNI	512
+117.1.56.0/22	 Dai IP cho dich vu ADSL HNI	1,024
+117.1.60.0/22	 Dai IP cho dich vu ADSL HNI	1,024
+117.1.64.0/18	 Dai IP cho dich vu ADSL HNI	16,384
+117.1.64.0/20	 Dai IP cho dich vu ADSL HNI	4,096
+117.1.80.0/21	 Dai IP cho dich vu ADSL HNI	2,048
+117.1.8.0/23	 Dai IP cho dich vu ADSL HNI	512
+117.1.88.0/21	 Dai IP cho dich vu ADSL HNI	2,048
+117.1.96.0/21	 Dai IP cho dich vu ADSL HNI	2,048
+117.2.0.0/18	 Dai IP cho dich vu ADSL DGN+NAN	16,384
+117.2.0.0/19	 Dai IP cho dich vu ADSL DGN+NAN	8,192
+117.2.0.0/22	 Dai IP cho dich vu ADSL DGN+NAN	1,024
+117.2.100.0/23	 Dai IP cho dich vu ADSL DGN+NAN	512
+117.2.102.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.104.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.2.104.0/22	 Dai IP cho dich vu ADSL DGN+NAN	1,024
+117.2.108.0/23	 Dai IP cho dich vu ADSL DGN+NAN	512
+117.2.110.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.112.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.2.120.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.2.120.0/22	 Dai IP cho dich vu ADSL DGN+NAN	1,024
+117.2.12.0/23	 Dai IP cho dich vu ADSL DGN+NAN	512
+117.2.124.0/22	 Dai IP cho dich vu ADSL DGN+NAN	1,024
+117.2.128.0/19	 Dai IP cho dich vu ADSL DGN+NAN	8,192
+117.2.128.0/20	 Dai IP cho dich vu ADSL DGN+NAN	4,096
+117.2.128.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.129.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.130.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.131.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.132.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.133.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.134.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.135.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.136.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.137.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.138.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.140.0/23	 Dai IP cho dich vu ADSL DGN+NAN	512
+117.2.14.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.143.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.144.0/20	 Dai IP cho dich vu ADSL DGN+NAN	4,096
+117.2.144.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.145.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.146.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.147.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.148.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.149.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.150.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.151.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.152.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.153.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.156.0/23	 Dai IP cho dich vu ADSL DGN+NAN	512
+117.2.158.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.160.0/20	 Dai IP cho dich vu ADSL DGN+NAN	4,096
+117.2.160.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.2.16.0/22	 Dai IP cho dich vu ADSL DGN+NAN	1,024
+117.2.165.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.168.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.2.176.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.2.18.0/23	 Dai IP cho dich vu ADSL DGN+NAN	512
+117.2.184.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.2.192.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.2.200.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.2.20.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.208.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.2.21.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.216.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.2.224.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.2.232.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.2.240.0/20	 Dai IP cho dich vu ADSL DGN+NAN	4,096
+117.2.24.0/22	 Dai IP cho dich vu ADSL DGN+NAN	1,024
+117.2.252.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.28.0/23	 Dai IP cho dich vu ADSL DGN+NAN	512
+117.2.30.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.32.0/19	 Dai IP cho dich vu ADSL DGN+NAN	8,192
+117.2.32.0/22	 Dai IP cho dich vu ADSL DGN+NAN	1,024
+117.2.36.0/23	 Dai IP cho dich vu ADSL DGN+NAN	512
+117.2.38.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.40.0/22	 Dai IP cho dich vu ADSL DGN+NAN	1,024
+117.2.4.0/23	 Dai IP cho dich vu ADSL DGN+NAN	512
+117.2.44.0/23	 Dai IP cho dich vu ADSL DGN+NAN	512
+117.2.46.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.47.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.48.0/22	 Dai IP cho dich vu ADSL DGN+NAN	1,024
+117.2.52.0/23	 Dai IP cho dich vu ADSL DGN+NAN	512
+117.2.54.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.56.0/22	 Dai IP cho dich vu ADSL DGN+NAN	1,024
+117.2.60.0/23	 Dai IP cho dich vu ADSL DGN+NAN	512
+117.2.6.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.62.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.64.0/19	 Dai IP cho dich vu ADSL DGN+NAN	8,192
+117.2.64.0/20	 Dai IP cho dich vu ADSL DGN+NAN	4,096
+117.2.64.0/22	 Dai IP cho dich vu ADSL DGN+NAN	1,024
+117.2.68.0/23	 Dai IP cho dich vu ADSL DGN+NAN	512
+117.2.70.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.72.0/22	 Dai IP cho dich vu ADSL DGN+NAN	1,024
+117.2.76.0/23	 Dai IP cho dich vu ADSL DGN+NAN	512
+117.2.78.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.79.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.80.0/20	 Dai IP cho dich vu ADSL DGN+NAN	4,096
+117.2.80.0/22	 Dai IP cho dich vu ADSL DGN+NAN	1,024
+117.2.8.0/22	 Dai IP cho dich vu ADSL DGN+NAN	1,024
+117.2.84.0/23	 Dai IP cho dich vu ADSL DGN+NAN	512
+117.2.86.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.88.0/22	 Dai IP cho dich vu ADSL DGN+NAN	1,024
+117.2.92.0/23	 Dai IP cho dich vu ADSL DGN+NAN	512
+117.2.94.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.2.96.0/20	 Dai IP cho dich vu ADSL DGN+NAN	4,096
+117.2.96.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.2.96.0/22	 Dai IP cho dich vu ADSL DGN+NAN	1,024
+117.3.0.0/18	 Dai IP cho dich vu ADSL DGN+NAN	16,384
+117.3.0.0/19	 Dai IP cho dich vu ADSL DGN+NAN	8,192
+117.3.104.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.3.112.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.3.112.0/22	 Dai IP cho dich vu ADSL DGN+NAN	1,024
+117.3.116.0/22	 Dai IP cho dich vu ADSL DGN+NAN	1,024
+117.3.120.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.3.128.0/19	 Dai IP cho dich vu ADSL DGN+NAN	8,192
+117.3.128.0/20	 Dai IP cho dich vu ADSL DGN+NAN	4,096
+117.3.144.0/20	 Dai IP cho dich vu ADSL DGN+NAN	4,096
+117.3.160.0/20	 Dai IP cho dich vu ADSL DGN+NAN	4,096
+117.3.160.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.3.168.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.3.168.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.3.169.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.3.170.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.3.171.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.3.172.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.3.173.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.3.174.0/24	 Dai IP cho dich vu ADSL DGN+NAN	256
+117.3.176.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.3.184.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.3.192.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.3.200.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.3.208.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.3.216.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.3.224.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.3.232.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.3.240.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.3.248.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.3.32.0/19	 Dai IP cho dich vu ADSL DGN+NAN	8,192
+117.3.64.0/19	 Dai IP cho dich vu ADSL DGN+NAN	8,192
+117.3.64.0/20	 Dai IP cho dich vu ADSL DGN+NAN	4,096
+117.3.80.0/20	 Dai IP cho dich vu ADSL DGN+NAN	4,096
+117.3.96.0/20	 Dai IP cho dich vu ADSL DGN+NAN	4,096
+117.3.96.0/21	 Dai IP cho dich vu ADSL DGN+NAN	2,048
+117.4.0.0/14	 Dai IP cho dich vu ADSL tai HCM	262,144
+117.4.0.0/16	 Dai IP su dung cho mang khach hang FTTH o HaNoi	65,536
+117.4.0.0/20	 Dai IP su dung cho mang khach hang FTTH o HaNoi	4,096
+117.4.0.0/21	 Dai IP su dung cho mang khach hang FTTH o HaNoi	2,048
+117.4.100.0/23	 Dai IP su dung cho mang khach hang FTTH o HaNoi	512
+117.4.100.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.102.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.103.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.104.0/21	 Dai IP su dung cho mang khach hang FTTH o HaNoi	2,048
+117.4.104.0/22	 Dai IP su dung cho mang khach hang FTTH o HaNoi	1,024
+117.4.108.0/23	 Dai IP su dung cho mang khach hang FTTH o HaNoi	512
+117.4.110.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.111.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.112.0/20	 Dai IP su dung cho mang khach hang FTTH o HaNoi	4,096
+117.4.112.0/21	 Dai IP su dung cho mang khach hang FTTH o HaNoi	2,048
+117.4.112.0/22	 Dai IP su dung cho mang khach hang FTTH o HaNoi	1,024
+117.4.120.0/21	 Dai IP su dung cho mang khach hang FTTH o HaNoi	2,048
+117.4.120.0/22	 Dai IP su dung cho mang khach hang FTTH o HaNoi	1,024
+117.4.124.0/23	 Dai IP su dung cho mang khach hang FTTH o HaNoi	512
+117.4.126.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.127.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.128.0/20	 Dai IP su dung cho mang khach hang FTTH o HaNoi	4,096
+117.4.128.0/22	 Dai IP su dung cho mang khach hang FTTH o HaNoi	1,024
+117.4.132.0/22	 Dai IP su dung cho mang khach hang FTTH o HaNoi	1,024
+117.4.14.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.144.0/20	 Dai IP su dung cho mang khach hang FTTH o HaNoi	4,096
+117.4.15.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.152.0/22	 Dai IP su dung cho mang khach hang FTTH o HaNoi	1,024
+117.4.156.0/23	 Dai IP su dung cho mang khach hang FTTH o HaNoi	512
+117.4.158.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.159.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.160.0/20	 Dai IP su dung cho mang khach hang FTTH o HaNoi	4,096
+117.4.160.0/21	 Dai IP su dung cho mang khach hang FTTH o HaNoi	2,048
+117.4.16.0/20	 Dai IP su dung cho mang khach hang FTTH o HaNoi	4,096
+117.4.16.0/21	 Dai IP su dung cho mang khach hang FTTH o HaNoi	2,048
+117.4.168.0/21	 Dai IP su dung cho mang khach hang FTTH o HaNoi	2,048
+117.4.168.0/22	 Dai IP su dung cho mang khach hang FTTH o HaNoi	1,024
+117.4.174.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.175.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.176.0/20	 Dai IP su dung cho mang khach hang FTTH o HaNoi	4,096
+117.4.176.0/22	 Dai IP su dung cho mang khach hang FTTH o HaNoi	1,024
+117.4.180.0/23	 Dai IP su dung cho mang khach hang FTTH o HaNoi	512
+117.4.182.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.183.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.184.0/22	 Dai IP su dung cho mang khach hang FTTH o HaNoi	1,024
+117.4.188.0/23	 Dai IP su dung cho mang khach hang FTTH o HaNoi	512
+117.4.190.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.191.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.192.0/20	 Dai IP su dung cho mang khach hang FTTH o HaNoi	4,096
+117.4.192.0/22	 Dai IP su dung cho mang khach hang FTTH o HaNoi	1,024
+117.4.196.0/23	 Dai IP su dung cho mang khach hang FTTH o HaNoi	512
+117.4.198.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.199.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.20.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.208.0/20	 Dai IP su dung cho mang khach hang FTTH o HaNoi	4,096
+117.4.208.0/21	 Dai IP su dung cho mang khach hang FTTH o HaNoi	2,048
+117.4.216.0/21	 Dai IP su dung cho mang khach hang FTTH o HaNoi	2,048
+117.4.224.0/20	 Dai IP su dung cho mang khach hang FTTH o HaNoi	4,096
+117.4.224.0/21	 Dai IP su dung cho mang khach hang FTTH o HaNoi	2,048
+117.4.232.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.233.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.234.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.235.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.240.0/20	 Dai IP su dung cho mang khach hang FTTH o HaNoi	4,096
+117.4.24.0/22	 Dai IP su dung cho mang khach hang FTTH o HaNoi	1,024
+117.4.28.0/23	 Dai IP su dung cho mang khach hang FTTH o HaNoi	512
+117.4.32.0/20	 Dai IP su dung cho mang khach hang FTTH o HaNoi	4,096
+117.4.32.0/22	 Dai IP su dung cho mang khach hang FTTH o HaNoi	1,024
+117.4.36.0/23	 Dai IP su dung cho mang khach hang FTTH o HaNoi	512
+117.4.38.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.39.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.40.0/21	 Dai IP su dung cho mang khach hang FTTH o HaNoi	2,048
+117.4.4.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.48.0/20	 Dai IP su dung cho mang khach hang FTTH o HaNoi	4,096
+117.4.48.0/21	 Dai IP su dung cho mang khach hang FTTH o HaNoi	2,048
+117.4.48.0/22	 Dai IP su dung cho mang khach hang FTTH o HaNoi	1,024
+117.4.5.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.52.0/23	 Dai IP su dung cho mang khach hang FTTH o HaNoi	512
+117.4.54.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.55.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.56.0/22	 Dai IP su dung cho mang khach hang FTTH o HaNoi	1,024
+117.4.60.0/23	 Dai IP su dung cho mang khach hang FTTH o HaNoi	512
+117.4.62.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.63.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.64.0/20	 Dai IP su dung cho mang khach hang FTTH o HaNoi	4,096
+117.4.64.0/21	 Dai IP su dung cho mang khach hang FTTH o HaNoi	2,048
+117.4.64.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.68.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.69.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.72.0/21	 Dai IP su dung cho mang khach hang FTTH o HaNoi	2,048
+117.4.72.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.76.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.80.0/20	 Dai IP su dung cho mang khach hang FTTH o HaNoi	4,096
+117.4.80.0/21	 Dai IP su dung cho mang khach hang FTTH o HaNoi	2,048
+117.4.80.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.8.0/22	 Dai IP su dung cho mang khach hang FTTH o HaNoi	1,024
+117.4.82.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.83.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.84.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.85.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.88.0/22	 Dai IP su dung cho mang khach hang FTTH o HaNoi	1,024
+117.4.92.0/23	 Dai IP su dung cho mang khach hang FTTH o HaNoi	512
+117.4.94.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.95.0/24	 Dai IP su dung cho mang khach hang FTTH o HaNoi	256
+117.4.96.0/20	 Dai IP su dung cho mang khach hang FTTH o HaNoi	4,096
+117.4.96.0/21	 Dai IP su dung cho mang khach hang FTTH o HaNoi	2,048
+117.4.96.0/22	 Dai IP su dung cho mang khach hang FTTH o HaNoi	1,024
+117.5.0.0/20	 Dai IP cho dich vu ADSL tai HCM	4,096
+117.5.104.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.5.112.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.5.120.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.5.128.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.5.136.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.5.144.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.5.152.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.5.160.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.5.16.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.5.168.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.5.176.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.5.184.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.5.192.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.5.200.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.5.208.0/20	 Dai IP cho dich vu ADSL tai HCM	4,096
+117.5.224.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.5.232.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.5.240.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.5.24.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.5.248.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.5.32.0/20	 Dai IP cho dich vu ADSL tai HCM	4,096
+117.5.48.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.5.56.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.5.64.0/22	 Dai IP cho dich vu ADSL tai HCM	1,024
+117.5.68.0/22	 Dai IP cho dich vu ADSL tai HCM	1,024
+117.5.72.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.5.80.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.5.88.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.5.96.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.6.0.0/16	 Dai IP cho dich vu ADSL tai HCM	65,536
+117.6.0.0/20	 Dai IP cho dich vu ADSL tai HCM	4,096
+117.6.104.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.6.112.0/20	 Dai IP cho dich vu ADSL tai HCM	4,096
+117.6.128.0/20	 Dai IP cho dich vu ADSL tai HCM	4,096
+117.6.144.0/20	 Dai IP cho dich vu ADSL tai HCM	4,096
+117.6.160.0/20	 Dai IP cho dich vu ADSL tai HCM	4,096
+117.6.16.0/20	 Dai IP cho dich vu ADSL tai HCM	4,096
+117.6.176.0/20	 Dai IP cho dich vu ADSL tai HCM	4,096
+117.6.18.0/23	 Dai IP cho dich vu ADSL tai HCM	512
+117.6.192.0/20	 Dai IP cho dich vu ADSL tai HCM	4,096
+117.6.20.0/22	 Dai IP cho dich vu ADSL tai HCM	1,024
+117.6.208.0/20	 Dai IP cho dich vu ADSL tai HCM	4,096
+117.6.224.0/20	 Dai IP cho dich vu ADSL tai HCM	4,096
+117.6.240.0/20	 Dai IP cho dich vu ADSL tai HCM	4,096
+117.6.24.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.6.32.0/20	 Dai IP cho dich vu ADSL tai HCM	4,096
+117.6.36.0/24	 Dai IP cho dich vu ADSL tai HCM	256
+117.6.37.0/24	 Dai IP cho dich vu ADSL tai HCM	256
+117.6.38.0/23	 Dai IP cho dich vu ADSL tai HCM	512
+117.6.40.0/22	 Dai IP cho dich vu ADSL tai HCM	1,024
+117.6.48.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.6.56.0/21	 Dai IP cho dich vu ADSL tai HCM	2,048
+117.6.64.0/20	 Dai IP cho dich vu ADSL tai HCM	4,096
+117.6.66.0/23	 Dai IP cho dich vu ADSL tai HCM	512
+117.6.80.0/20	 Dai IP cho dich vu ADSL tai HCM	4,096
+117.6.96.0/20	 Dai IP cho dich vu ADSL tai HCM	4,096
+117.7.0.0/16	 AdditionalIP range for 3G service of Viettel in Ha Noi	65,536
+117.7.0.0/18	 AdditionalIP range for 3G service of Viettel in Ha Noi	16,384
+117.7.0.0/20	 AdditionalIP range for 3G service of Viettel in Ha Noi	4,096
+117.7.112.0/21	 AdditionalIP range for 3G service of Viettel in Ha Noi	2,048
+117.7.120.0/21	 AdditionalIP range for 3G service of Viettel in Ha Noi	2,048
+117.7.12.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.128.0/18	 Viettel Group	16,384
+117.7.128.0/21	 Viettel Group	2,048
+117.7.13.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.136.0/21	 Viettel Group	2,048
+117.7.14.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.144.0/21	 Viettel Group	2,048
+117.7.15.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.152.0/21	 Viettel Group	2,048
+117.7.160.0/21	 Viettel Group	2,048
+117.7.16.0/20	 AdditionalIP range for 3G service of Viettel in Ha Noi	4,096
+117.7.16.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.168.0/21	 Viettel Group	2,048
+117.7.17.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.176.0/21	 Viettel Group	2,048
+117.7.18.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.184.0/21	 Viettel Group	2,048
+117.7.19.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.192.0/18	 Viettel Group	16,384
+117.7.192.0/21	 Viettel Group	2,048
+117.7.200.0/21	 Viettel Group	2,048
+117.7.2.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.208.0/22	 Viettel Group	1,024
+117.7.212.0/22	 Viettel Group	1,024
+117.7.216.0/21	 Viettel Group	2,048
+117.7.224.0/21	 Viettel Group	2,048
+117.7.224.0/22	 Viettel Group	1,024
+117.7.228.0/22	 Viettel Group	1,024
+117.7.228.0/24	 Viettel Group	256
+117.7.232.0/22	 Viettel Group	1,024
+117.7.234.0/24	 Viettel Group	256
+117.7.236.0/22	 Viettel Group	1,024
+117.7.240.0/20	 Viettel Group	4,096
+117.7.24.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.25.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.26.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.30.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.3.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.31.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.32.0/20	 AdditionalIP range for 3G service of Viettel in Ha Noi	4,096
+117.7.32.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.33.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.34.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.36.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.38.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.39.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.40.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.4.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.41.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.44.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.45.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.46.0/23	 AdditionalIP range for 3G service of Viettel in Ha Noi	512
+117.7.48.0/20	 AdditionalIP range for 3G service of Viettel in Ha Noi	4,096
+117.7.48.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.49.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.50.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.51.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.53.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.56.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.57.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.58.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.59.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.6.0/24	 AdditionalIP range for 3G service of Viettel in Ha Noi	256
+117.7.64.0/18	 AdditionalIP range for 3G service of Viettel in Ha Noi	16,384
+117.7.64.0/21	 AdditionalIP range for 3G service of Viettel in Ha Noi	2,048
+117.7.72.0/21	 AdditionalIP range for 3G service of Viettel in Ha Noi	2,048
+117.7.80.0/20	 AdditionalIP range for 3G service of Viettel in Ha Noi	4,096
+117.7.96.0/20	 AdditionalIP range for 3G service of Viettel in Ha Noi	4,096
+125.212.192.0/20	 Viettel Group	4,096
+125.212.224.0/19	 Viettel Group	8,192
+125.212.224.0/20	 Viettel Group	4,096
+125.212.240.0/20	 Viettel Group	4,096
+125.234.0.0/16	 xDSL Services of HaNoi	65,536
+125.234.0.0/20	 xDSL Services of HaNoi	4,096
+125.234.111.0/24	 xDSL Services of HaNoi	256
+125.234.112.0/20	 xDSL Services of HaNoi	4,096
+125.234.112.0/24	 xDSL Services of HaNoi	256
+125.234.115.0/24	 xDSL Services of HaNoi	256
+125.234.128.0/20	 xDSL Services of HaNoi	4,096
+125.234.128.0/24	 xDSL Services of HaNoi	256
+125.234.130.0/24	 xDSL Services of HaNoi	256
+125.234.16.0/20	 xDSL Services of HaNoi	4,096
+125.234.224.0/20	 xDSL Services of HaNoi	4,096
+125.234.236.0/22	 xDSL Services of HaNoi	1,024
+125.234.236.0/24	 xDSL Services of HaNoi	256
+125.234.240.0/20	 xDSL Services of HaNoi	4,096
+125.234.240.0/24	 xDSL Services of HaNoi	256
+125.234.244.0/24	 xDSL Services of HaNoi	256
+125.234.246.0/24	 xDSL Services of HaNoi	256
+125.234.248.0/24	 xDSL Services of HaNoi	256
+125.234.252.0/22	 xDSL Services of HaNoi	1,024
+125.234.32.0/20	 xDSL Services of HaNoi	4,096
+125.234.48.0/20	 xDSL Services of HaNoi	4,096
+125.234.49.0/24	 xDSL Services of HaNoi	256
+125.234.60.0/22	 xDSL Services of HaNoi	1,024
+125.234.96.0/20	 xDSL Services of HaNoi	4,096
+125.234.98.0/24	 xDSL Services of HaNoi	256
+125.235.0.0/20	 xDSL Services of DaNang	4,096
+125.235.0.0/24	 xDSL Services of DaNang	256
+125.235.100.0/24	 xDSL Services of DaNang	256
+125.235.10.0/24	 xDSL Services of DaNang	256
+125.235.1.0/24	 xDSL Services of DaNang	256
+125.235.11.0/24	 xDSL Services of DaNang	256
+125.235.112.0/20	 xDSL Services of DaNang	4,096
+125.235.12.0/24	 xDSL Services of DaNang	256
+125.235.128.0/20	 xDSL Services of DaNang	4,096
+125.235.13.0/24	 xDSL Services of DaNang	256
+125.235.16.0/20	 xDSL Services of DaNang	4,096
+125.235.176.0/20	 xDSL Services of DaNang	4,096
+125.235.18.0/24	 xDSL Services of DaNang	256
+125.235.19.0/24	 xDSL Services of DaNang	256
+125.235.192.0/18	 xDSL Services of DaNang	16,384
+125.235.20.0/22	 xDSL Services of DaNang	1,024
+125.235.2.0/24	 xDSL Services of DaNang	256
+125.235.240.0/20	 xDSL Services of DaNang	4,096
+125.235.240.0/22	 xDSL Services of DaNang	1,024
+125.235.24.0/22	 xDSL Services of DaNang	1,024
+125.235.248.0/22	 xDSL Services of DaNang	1,024
+125.235.252.0/24	 xDSL Services of DaNang	256
+125.235.28.0/24	 xDSL Services of DaNang	256
+125.235.3.0/24	 xDSL Services of DaNang	256
+125.235.32.0/20	 xDSL Services of DaNang	4,096
+125.235.33.0/24	 xDSL Services of DaNang	256
+125.235.36.0/24	 xDSL Services of DaNang	256
+125.235.38.0/24	 xDSL Services of DaNang	256
+125.235.39.0/24	 xDSL Services of DaNang	256
+125.235.40.0/21	 xDSL Services of DaNang	2,048
+125.235.4.0/24	 xDSL Services of DaNang	256
+125.235.48.0/20	 xDSL Services of DaNang	4,096
+125.235.48.0/22	 xDSL Services of DaNang	1,024
+125.235.50.0/24	 xDSL Services of DaNang	256
+125.235.5.0/24	 xDSL Services of DaNang	256
+125.235.6.0/24	 xDSL Services of DaNang	256
+125.235.64.0/18	 xDSL Services of DaNang	16,384
+125.235.64.0/20	 xDSL Services of DaNang	4,096
+125.235.80.0/20	 xDSL Services of DaNang	4,096
+125.235.8.0/24	 xDSL Services of DaNang	256
+125.235.87.0/24	 xDSL Services of DaNang	256
+125.235.9.0/24	 xDSL Services of DaNang	256
+171.224.0.0/11	 Viettel Group	2,097,152
+171.224.0.0/12	 Viettel Group	1,048,576
+171.224.0.0/13	 Viettel Group	524,288
+171.224.0.0/16	 Viettel Group	65,536
+171.224.0.0/21	 Viettel Group	2,048
+171.224.104.0/21	 Viettel Group	2,048
+171.224.112.0/22	 Viettel Group	1,024
+171.224.116.0/22	 Viettel Group	1,024
+171.224.120.0/21	 Viettel Group	2,048
+171.224.128.0/21	 Viettel Group	2,048
+171.224.136.0/22	 Viettel Group	1,024
+171.224.140.0/22	 Viettel Group	1,024
+171.224.144.0/22	 Viettel Group	1,024
+171.224.148.0/23	 Viettel Group	512
+171.224.150.0/23	 Viettel Group	512
+171.224.152.0/21	 Viettel Group	2,048
+171.224.160.0/21	 Viettel Group	2,048
+171.224.16.0/21	 Viettel Group	2,048
+171.224.168.0/21	 Viettel Group	2,048
+171.224.176.0/21	 Viettel Group	2,048
+171.224.184.0/22	 Viettel Group	1,024
+171.224.188.0/22	 Viettel Group	1,024
+171.224.192.0/21	 Viettel Group	2,048
+171.224.200.0/21	 Viettel Group	2,048
+171.224.208.0/21	 Viettel Group	2,048
+171.224.216.0/21	 Viettel Group	2,048
+171.224.224.0/21	 Viettel Group	2,048
+171.224.232.0/21	 Viettel Group	2,048
+171.224.240.0/22	 Viettel Group	1,024
+171.224.24.0/21	 Viettel Group	2,048
+171.224.244.0/22	 Viettel Group	1,024
+171.224.248.0/22	 Viettel Group	1,024
+171.224.252.0/22	 Viettel Group	1,024
+171.224.32.0/21	 Viettel Group	2,048
+171.224.40.0/21	 Viettel Group	2,048
+171.224.48.0/21	 Viettel Group	2,048
+171.224.56.0/21	 Viettel Group	2,048
+171.224.64.0/21	 Viettel Group	2,048
+171.224.72.0/21	 Viettel Group	2,048
+171.224.80.0/21	 Viettel Group	2,048
+171.224.8.0/21	 Viettel Group	2,048
+171.224.88.0/21	 Viettel Group	2,048
+171.224.96.0/21	 Viettel Group	2,048
+171.225.0.0/21	 Viettel Group	2,048
+171.225.104.0/21	 Viettel Group	2,048
+171.225.112.0/21	 Viettel Group	2,048
+171.225.120.0/21	 Viettel Group	2,048
+171.225.128.0/21	 Viettel Group	2,048
+171.225.136.0/21	 Viettel Group	2,048
+171.225.144.0/21	 Viettel Group	2,048
+171.225.152.0/21	 Viettel Group	2,048
+171.225.160.0/21	 Viettel Group	2,048
+171.225.16.0/21	 Viettel Group	2,048
+171.225.168.0/21	 Viettel Group	2,048
+171.225.176.0/21	 Viettel Group	2,048
+171.225.184.0/21	 Viettel Group	2,048
+171.225.192.0/21	 Viettel Group	2,048
+171.225.200.0/21	 Viettel Group	2,048
+171.225.208.0/21	 Viettel Group	2,048
+171.225.216.0/21	 Viettel Group	2,048
+171.225.224.0/21	 Viettel Group	2,048
+171.225.232.0/21	 Viettel Group	2,048
+171.225.240.0/21	 Viettel Group	2,048
+171.225.24.0/21	 Viettel Group	2,048
+171.225.248.0/21	 Viettel Group	2,048
+171.225.32.0/21	 Viettel Group	2,048
+171.225.40.0/21	 Viettel Group	2,048
+171.225.48.0/21	 Viettel Group	2,048
+171.225.56.0/21	 Viettel Group	2,048
+171.225.64.0/21	 Viettel Group	2,048
+171.225.72.0/21	 Viettel Group	2,048
+171.225.80.0/21	 Viettel Group	2,048
+171.225.8.0/21	 Viettel Group	2,048
+171.225.88.0/21	 Viettel Group	2,048
+171.225.96.0/21	 Viettel Group	2,048
+171.226.0.0/16	 Viettel Group	65,536
+171.226.0.0/21	 Viettel Group	2,048
+171.226.112.0/21	 Viettel Group	2,048
+171.226.120.0/21	 Viettel Group	2,048
+171.226.128.0/21	 Viettel Group	2,048
+171.226.136.0/21	 Viettel Group	2,048
+171.226.144.0/21	 Viettel Group	2,048
+171.226.152.0/21	 Viettel Group	2,048
+171.226.160.0/21	 Viettel Group	2,048
+171.226.16.0/21	 Viettel Group	2,048
+171.226.168.0/21	 Viettel Group	2,048
+171.226.176.0/21	 Viettel Group	2,048
+171.226.184.0/21	 Viettel Group	2,048
+171.226.192.0/21	 Viettel Group	2,048
+171.226.200.0/21	 Viettel Group	2,048
+171.226.208.0/20	 Viettel Group	4,096
+171.226.224.0/21	 Viettel Group	2,048
+171.226.232.0/21	 Viettel Group	2,048
+171.226.240.0/21	 Viettel Group	2,048
+171.226.24.0/21	 Viettel Group	2,048
+171.226.248.0/22	 Viettel Group	1,024
+171.226.252.0/23	 Viettel Group	512
+171.226.254.0/23	 Viettel Group	512
+171.226.32.0/21	 Viettel Group	2,048
+171.226.40.0/21	 Viettel Group	2,048
+171.226.48.0/21	 Viettel Group	2,048
+171.226.56.0/21	 Viettel Group	2,048
+171.226.64.0/21	 Viettel Group	2,048
+171.226.72.0/21	 Viettel Group	2,048
+171.226.80.0/21	 Viettel Group	2,048
+171.226.8.0/21	 Viettel Group	2,048
+171.226.88.0/21	 Viettel Group	2,048
+171.226.96.0/20	 Viettel Group	4,096
+171.227.0.0/21	 Viettel Group	2,048
+171.227.112.0/21	 Viettel Group	2,048
+171.227.120.0/21	 Viettel Group	2,048
+171.227.128.0/21	 Viettel Group	2,048
+171.227.136.0/21	 Viettel Group	2,048
+171.227.144.0/21	 Viettel Group	2,048
+171.227.152.0/21	 Viettel Group	2,048
+171.227.160.0/21	 Viettel Group	2,048
+171.227.16.0/22	 Viettel Group	1,024
+171.227.168.0/21	 Viettel Group	2,048
+171.227.176.0/21	 Viettel Group	2,048
+171.227.184.0/21	 Viettel Group	2,048
+171.227.192.0/21	 Viettel Group	2,048
+171.227.200.0/21	 Viettel Group	2,048
+171.227.20.0/22	 Viettel Group	1,024
+171.227.208.0/21	 Viettel Group	2,048
+171.227.216.0/21	 Viettel Group	2,048
+171.227.224.0/21	 Viettel Group	2,048
+171.227.232.0/21	 Viettel Group	2,048
+171.227.240.0/21	 Viettel Group	2,048
+171.227.24.0/22	 Viettel Group	1,024
+171.227.248.0/21	 Viettel Group	2,048
+171.227.28.0/22	 Viettel Group	1,024
+171.227.32.0/21	 Viettel Group	2,048
+171.227.40.0/21	 Viettel Group	2,048
+171.227.48.0/21	 Viettel Group	2,048
+171.227.56.0/21	 Viettel Group	2,048
+171.227.64.0/21	 Viettel Group	2,048
+171.227.72.0/21	 Viettel Group	2,048
+171.227.80.0/21	 Viettel Group	2,048
+171.227.8.0/21	 Viettel Group	2,048
+171.227.88.0/21	 Viettel Group	2,048
+171.227.96.0/20	 Viettel Group	4,096
+171.228.0.0/14	 Viettel Group	262,144
+171.228.0.0/21	 Viettel Group	2,048
+171.228.104.0/22	 Viettel Group	1,024
+171.228.108.0/23	 Viettel Group	512
+171.228.110.0/23	 Viettel Group	512
+171.228.112.0/21	 Viettel Group	2,048
+171.228.120.0/22	 Viettel Group	1,024
+171.228.124.0/23	 Viettel Group	512
+171.228.126.0/23	 Viettel Group	512
+171.228.128.0/21	 Viettel Group	2,048
+171.228.136.0/21	 Viettel Group	2,048
+171.228.144.0/21	 Viettel Group	2,048
+171.228.152.0/21	 Viettel Group	2,048
+171.228.160.0/21	 Viettel Group	2,048
+171.228.16.0/21	 Viettel Group	2,048
+171.228.168.0/21	 Viettel Group	2,048
+171.228.176.0/21	 Viettel Group	2,048
+171.228.184.0/21	 Viettel Group	2,048
+171.228.192.0/21	 Viettel Group	2,048
+171.228.200.0/21	 Viettel Group	2,048
+171.228.208.0/21	 Viettel Group	2,048
+171.228.216.0/21	 Viettel Group	2,048
+171.228.224.0/21	 Viettel Group	2,048
+171.228.232.0/22	 Viettel Group	1,024
+171.228.236.0/23	 Viettel Group	512
+171.228.238.0/23	 Viettel Group	512
+171.228.240.0/21	 Viettel Group	2,048
+171.228.24.0/21	 Viettel Group	2,048
+171.228.248.0/21	 Viettel Group	2,048
+171.228.32.0/21	 Viettel Group	2,048
+171.228.40.0/21	 Viettel Group	2,048
+171.228.48.0/21	 Viettel Group	2,048
+171.228.56.0/22	 Viettel Group	1,024
+171.228.60.0/23	 Viettel Group	512
+171.228.62.0/23	 Viettel Group	512
+171.228.64.0/21	 Viettel Group	2,048
+171.228.72.0/21	 Viettel Group	2,048
+171.228.80.0/21	 Viettel Group	2,048
+171.228.8.0/21	 Viettel Group	2,048
+171.228.88.0/21	 Viettel Group	2,048
+171.228.96.0/21	 Viettel Group	2,048
+171.229.0.0/21	 Viettel Group	2,048
+171.229.104.0/21	 Viettel Group	2,048
+171.229.112.0/21	 Viettel Group	2,048
+171.229.120.0/21	 Viettel Group	2,048
+171.229.12.0/23	 Viettel Group	512
+171.229.128.0/21	 Viettel Group	2,048
+171.229.136.0/21	 Viettel Group	2,048
+171.229.14.0/23	 Viettel Group	512
+171.229.144.0/21	 Viettel Group	2,048
+171.229.152.0/22	 Viettel Group	1,024
+171.229.156.0/23	 Viettel Group	512
+171.229.158.0/23	 Viettel Group	512
+171.229.160.0/20	 Viettel Group	4,096
+171.229.16.0/21	 Viettel Group	2,048
+171.229.176.0/20	 Viettel Group	4,096
+171.229.192.0/20	 Viettel Group	4,096
+171.229.208.0/20	 Viettel Group	4,096
+171.229.224.0/20	 Viettel Group	4,096
+171.229.240.0/20	 Viettel Group	4,096
+171.229.24.0/22	 Viettel Group	1,024
+171.229.28.0/23	 Viettel Group	512
+171.229.30.0/23	 Viettel Group	512
+171.229.32.0/21	 Viettel Group	2,048
+171.229.40.0/21	 Viettel Group	2,048
+171.229.48.0/21	 Viettel Group	2,048
+171.229.56.0/21	 Viettel Group	2,048
+171.229.64.0/21	 Viettel Group	2,048
+171.229.72.0/21	 Viettel Group	2,048
+171.229.80.0/21	 Viettel Group	2,048
+171.229.8.0/22	 Viettel Group	1,024
+171.229.88.0/21	 Viettel Group	2,048
+171.229.96.0/21	 Viettel Group	2,048
+171.230.0.0/16	 Viettel Group	65,536
+171.230.0.0/20	 Viettel Group	4,096
+171.230.112.0/20	 Viettel Group	4,096
+171.230.128.0/20	 Viettel Group	4,096
+171.230.144.0/20	 Viettel Group	4,096
+171.230.160.0/20	 Viettel Group	4,096
+171.230.16.0/20	 Viettel Group	4,096
+171.230.176.0/20	 Viettel Group	4,096
+171.230.192.0/20	 Viettel Group	4,096
+171.230.208.0/20	 Viettel Group	4,096
+171.230.224.0/20	 Viettel Group	4,096
+171.230.240.0/20	 Viettel Group	4,096
+171.230.32.0/20	 Viettel Group	4,096
+171.230.48.0/20	 Viettel Group	4,096
+171.230.64.0/20	 Viettel Group	4,096
+171.230.80.0/20	 Viettel Group	4,096
+171.230.96.0/20	 Viettel Group	4,096
+171.231.0.0/21	 Viettel Group	2,048
+171.231.104.0/21	 Viettel Group	2,048
+171.231.112.0/21	 Viettel Group	2,048
+171.231.120.0/21	 Viettel Group	2,048
+171.231.128.0/21	 Viettel Group	2,048
+171.231.136.0/21	 Viettel Group	2,048
+171.231.144.0/21	 Viettel Group	2,048
+171.231.152.0/21	 Viettel Group	2,048
+171.231.160.0/21	 Viettel Group	2,048
+171.231.16.0/21	 Viettel Group	2,048
+171.231.168.0/21	 Viettel Group	2,048
+171.231.176.0/21	 Viettel Group	2,048
+171.231.184.0/21	 Viettel Group	2,048
+171.231.192.0/21	 Viettel Group	2,048
+171.231.200.0/21	 Viettel Group	2,048
+171.231.208.0/21	 Viettel Group	2,048
+171.231.216.0/21	 Viettel Group	2,048
+171.231.224.0/21	 Viettel Group	2,048
+171.231.232.0/21	 Viettel Group	2,048
+171.231.240.0/21	 Viettel Group	2,048
+171.231.24.0/21	 Viettel Group	2,048
+171.231.248.0/21	 Viettel Group	2,048
+171.231.32.0/21	 Viettel Group	2,048
+171.231.40.0/21	 Viettel Group	2,048
+171.231.48.0/21	 Viettel Group	2,048
+171.231.56.0/21	 Viettel Group	2,048
+171.231.64.0/21	 Viettel Group	2,048
+171.231.72.0/21	 Viettel Group	2,048
+171.231.80.0/21	 Viettel Group	2,048
+171.231.8.0/21	 Viettel Group	2,048
+171.231.88.0/21	 Viettel Group	2,048
+171.231.96.0/21	 Viettel Group	2,048
+171.232.0.0/21	 Viettel Group	2,048
+171.232.104.0/21	 Viettel Group	2,048
+171.232.112.0/21	 Viettel Group	2,048
+171.232.120.0/21	 Viettel Group	2,048
+171.232.128.0/21	 Viettel Group	2,048
+171.232.136.0/21	 Viettel Group	2,048
+171.232.144.0/21	 Viettel Group	2,048
+171.232.152.0/21	 Viettel Group	2,048
+171.232.160.0/21	 Viettel Group	2,048
+171.232.16.0/21	 Viettel Group	2,048
+171.232.168.0/21	 Viettel Group	2,048
+171.232.176.0/21	 Viettel Group	2,048
+171.232.184.0/21	 Viettel Group	2,048
+171.232.192.0/21	 Viettel Group	2,048
+171.232.200.0/21	 Viettel Group	2,048
+171.232.208.0/21	 Viettel Group	2,048
+171.232.216.0/21	 Viettel Group	2,048
+171.232.224.0/21	 Viettel Group	2,048
+171.232.232.0/21	 Viettel Group	2,048
+171.232.240.0/21	 Viettel Group	2,048
+171.232.24.0/21	 Viettel Group	2,048
+171.232.248.0/21	 Viettel Group	2,048
+171.232.32.0/21	 Viettel Group	2,048
+171.232.40.0/21	 Viettel Group	2,048
+171.232.48.0/21	 Viettel Group	2,048
+171.232.56.0/21	 Viettel Group	2,048
+171.232.64.0/21	 Viettel Group	2,048
+171.232.72.0/21	 Viettel Group	2,048
+171.232.80.0/21	 Viettel Group	2,048
+171.232.8.0/21	 Viettel Group	2,048
+171.232.88.0/21	 Viettel Group	2,048
+171.232.96.0/21	 Viettel Group	2,048
+171.233.0.0/21	 Viettel Group	2,048
+171.233.104.0/21	 Viettel Group	2,048
+171.233.112.0/21	 Viettel Group	2,048
+171.233.120.0/21	 Viettel Group	2,048
+171.233.128.0/21	 Viettel Group	2,048
+171.233.136.0/21	 Viettel Group	2,048
+171.233.144.0/21	 Viettel Group	2,048
+171.233.152.0/21	 Viettel Group	2,048
+171.233.160.0/21	 Viettel Group	2,048
+171.233.16.0/21	 Viettel Group	2,048
+171.233.168.0/21	 Viettel Group	2,048
+171.233.176.0/21	 Viettel Group	2,048
+171.233.184.0/21	 Viettel Group	2,048
+171.233.192.0/21	 Viettel Group	2,048
+171.233.200.0/21	 Viettel Group	2,048
+171.233.208.0/21	 Viettel Group	2,048
+171.233.216.0/21	 Viettel Group	2,048
+171.233.224.0/21	 Viettel Group	2,048
+171.233.232.0/21	 Viettel Group	2,048
+171.233.240.0/21	 Viettel Group	2,048
+171.233.24.0/21	 Viettel Group	2,048
+171.233.248.0/21	 Viettel Group	2,048
+171.233.32.0/21	 Viettel Group	2,048
+171.233.40.0/21	 Viettel Group	2,048
+171.233.48.0/21	 Viettel Group	2,048
+171.233.56.0/21	 Viettel Group	2,048
+171.233.64.0/21	 Viettel Group	2,048
+171.233.72.0/21	 Viettel Group	2,048
+171.233.80.0/21	 Viettel Group	2,048
+171.233.8.0/21	 Viettel Group	2,048
+171.233.88.0/21	 Viettel Group	2,048
+171.233.96.0/21	 Viettel Group	2,048
+171.234.0.0/17	 Viettel Group	32,768
+171.234.0.0/21	 Viettel Group	2,048
+171.234.104.0/21	 Viettel Group	2,048
+171.234.112.0/21	 Viettel Group	2,048
+171.234.120.0/21	 Viettel Group	2,048
+171.234.128.0/21	 Viettel Group	2,048
+171.234.136.0/21	 Viettel Group	2,048
+171.234.144.0/21	 Viettel Group	2,048
+171.234.152.0/21	 Viettel Group	2,048
+171.234.160.0/22	 Viettel Group	1,024
+171.234.16.0/21	 Viettel Group	2,048
+171.234.164.0/22	 Viettel Group	1,024
+171.234.168.0/22	 Viettel Group	1,024
+171.234.172.0/22	 Viettel Group	1,024
+171.234.176.0/21	 Viettel Group	2,048
+171.234.184.0/21	 Viettel Group	2,048
+171.234.192.0/21	 Viettel Group	2,048
+171.234.200.0/21	 Viettel Group	2,048
+171.234.208.0/21	 Viettel Group	2,048
+171.234.216.0/21	 Viettel Group	2,048
+171.234.224.0/21	 Viettel Group	2,048
+171.234.232.0/21	 Viettel Group	2,048
+171.234.240.0/21	 Viettel Group	2,048
+171.234.24.0/21	 Viettel Group	2,048
+171.234.248.0/21	 Viettel Group	2,048
+171.234.32.0/21	 Viettel Group	2,048
+171.234.40.0/21	 Viettel Group	2,048
+171.234.48.0/21	 Viettel Group	2,048
+171.234.56.0/21	 Viettel Group	2,048
+171.234.64.0/21	 Viettel Group	2,048
+171.234.72.0/21	 Viettel Group	2,048
+171.234.80.0/21	 Viettel Group	2,048
+171.234.8.0/21	 Viettel Group	2,048
+171.234.88.0/21	 Viettel Group	2,048
+171.234.96.0/21	 Viettel Group	2,048
+171.235.0.0/19	 Viettel Group	8,192
+171.235.0.0/20	 Viettel Group	4,096
+171.235.104.0/21	 Viettel Group	2,048
+171.235.112.0/21	 Viettel Group	2,048
+171.235.120.0/21	 Viettel Group	2,048
+171.235.128.0/21	 Viettel Group	2,048
+171.235.136.0/21	 Viettel Group	2,048
+171.235.144.0/21	 Viettel Group	2,048
+171.235.152.0/21	 Viettel Group	2,048
+171.235.160.0/21	 Viettel Group	2,048
+171.235.16.0/20	 Viettel Group	4,096
+171.235.168.0/21	 Viettel Group	2,048
+171.235.176.0/21	 Viettel Group	2,048
+171.235.184.0/21	 Viettel Group	2,048
+171.235.192.0/21	 Viettel Group	2,048
+171.235.200.0/21	 Viettel Group	2,048
+171.235.208.0/21	 Viettel Group	2,048
+171.235.216.0/21	 Viettel Group	2,048
+171.235.224.0/21	 Viettel Group	2,048
+171.235.232.0/21	 Viettel Group	2,048
+171.235.240.0/21	 Viettel Group	2,048
+171.235.248.0/21	 Viettel Group	2,048
+171.235.32.0/21	 Viettel Group	2,048
+171.235.40.0/21	 Viettel Group	2,048
+171.235.48.0/21	 Viettel Group	2,048
+171.235.56.0/21	 Viettel Group	2,048
+171.235.64.0/21	 Viettel Group	2,048
+171.235.72.0/21	 Viettel Group	2,048
+171.235.80.0/21	 Viettel Group	2,048
+171.235.88.0/21	 Viettel Group	2,048
+171.235.96.0/21	 Viettel Group	2,048
+171.237.0.0/21	 Viettel Group	2,048
+171.237.104.0/21	 Viettel Group	2,048
+171.237.112.0/21	 Viettel Group	2,048
+171.237.120.0/21	 Viettel Group	2,048
+171.237.128.0/21	 Viettel Group	2,048
+171.237.136.0/21	 Viettel Group	2,048
+171.237.144.0/21	 Viettel Group	2,048
+171.237.152.0/21	 Viettel Group	2,048
+171.237.16.0/21	 Viettel Group	2,048
+171.237.24.0/21	 Viettel Group	2,048
+171.237.32.0/21	 Viettel Group	2,048
+171.237.40.0/21	 Viettel Group	2,048
+171.237.48.0/21	 Viettel Group	2,048
+171.237.56.0/21	 Viettel Group	2,048
+171.237.64.0/21	 Viettel Group	2,048
+171.237.72.0/22	 Viettel Group	1,024
+171.237.76.0/22	 Viettel Group	1,024
+171.237.80.0/21	 Viettel Group	2,048
+171.237.8.0/21	 Viettel Group	2,048
+171.237.88.0/21	 Viettel Group	2,048
+171.237.96.0/21	 Viettel Group	2,048
+171.238.0.0/21	 Viettel Group	2,048
+171.238.104.0/21	 Viettel Group	2,048
+171.238.112.0/21	 Viettel Group	2,048
+171.238.120.0/21	 Viettel Group	2,048
+171.238.128.0/20	 Viettel Group	4,096
+171.238.144.0/21	 Viettel Group	2,048
+171.238.152.0/21	 Viettel Group	2,048
+171.238.160.0/21	 Viettel Group	2,048
+171.238.16.0/21	 Viettel Group	2,048
+171.238.168.0/21	 Viettel Group	2,048
+171.238.176.0/21	 Viettel Group	2,048
+171.238.184.0/24	 Viettel Group	256
+171.238.185.0/24	 Viettel Group	256
+171.238.186.0/23	 Viettel Group	512
+171.238.188.0/22	 Viettel Group	1,024
+171.238.192.0/21	 Viettel Group	2,048
+171.238.200.0/21	 Viettel Group	2,048
+171.238.208.0/21	 Viettel Group	2,048
+171.238.216.0/21	 Viettel Group	2,048
+171.238.224.0/21	 Viettel Group	2,048
+171.238.232.0/21	 Viettel Group	2,048
+171.238.240.0/21	 Viettel Group	2,048
+171.238.24.0/21	 Viettel Group	2,048
+171.238.248.0/21	 Viettel Group	2,048
+171.238.32.0/21	 Viettel Group	2,048
+171.238.40.0/21	 Viettel Group	2,048
+171.238.48.0/21	 Viettel Group	2,048
+171.238.56.0/21	 Viettel Group	2,048
+171.238.64.0/21	 Viettel Group	2,048
+171.238.72.0/21	 Viettel Group	2,048
+171.238.80.0/21	 Viettel Group	2,048
+171.238.8.0/21	 Viettel Group	2,048
+171.238.88.0/21	 Viettel Group	2,048
+171.238.96.0/21	 Viettel Group	2,048
+171.239.0.0/21	 Viettel Group	2,048
+171.239.104.0/21	 Viettel Group	2,048
+171.239.112.0/21	 Viettel Group	2,048
+171.239.120.0/21	 Viettel Group	2,048
+171.239.128.0/21	 Viettel Group	2,048
+171.239.136.0/21	 Viettel Group	2,048
+171.239.144.0/21	 Viettel Group	2,048
+171.239.152.0/21	 Viettel Group	2,048
+171.239.160.0/21	 Viettel Group	2,048
+171.239.16.0/21	 Viettel Group	2,048
+171.239.168.0/21	 Viettel Group	2,048
+171.239.176.0/21	 Viettel Group	2,048
+171.239.184.0/21	 Viettel Group	2,048
+171.239.192.0/21	 Viettel Group	2,048
+171.239.200.0/21	 Viettel Group	2,048
+171.239.208.0/21	 Viettel Group	2,048
+171.239.216.0/21	 Viettel Group	2,048
+171.239.224.0/21	 Viettel Group	2,048
+171.239.232.0/21	 Viettel Group	2,048
+171.239.240.0/21	 Viettel Group	2,048
+171.239.24.0/21	 Viettel Group	2,048
+171.239.248.0/21	 Viettel Group	2,048
+171.239.32.0/21	 Viettel Group	2,048
+171.239.40.0/21	 Viettel Group	2,048
+171.239.48.0/21	 Viettel Group	2,048
+171.239.56.0/21	 Viettel Group	2,048
+171.239.64.0/21	 Viettel Group	2,048
+171.239.72.0/21	 Viettel Group	2,048
+171.239.80.0/21	 Viettel Group	2,048
+171.239.8.0/21	 Viettel Group	2,048
+171.239.88.0/21	 Viettel Group	2,048
+171.239.96.0/21	 Viettel Group	2,048
+171.240.0.0/21	 Viettel Group	2,048
+171.240.104.0/22	 Viettel Group	1,024
+171.240.108.0/22	 Viettel Group	1,024
+171.240.112.0/21	 Viettel Group	2,048
+171.240.120.0/21	 Viettel Group	2,048
+171.240.128.0/21	 Viettel Group	2,048
+171.240.136.0/21	 Viettel Group	2,048
+171.240.144.0/21	 Viettel Group	2,048
+171.240.152.0/21	 Viettel Group	2,048
+171.240.160.0/21	 Viettel Group	2,048
+171.240.16.0/21	 Viettel Group	2,048
+171.240.168.0/21	 Viettel Group	2,048
+171.240.176.0/21	 Viettel Group	2,048
+171.240.184.0/21	 Viettel Group	2,048
+171.240.192.0/21	 Viettel Group	2,048
+171.240.200.0/21	 Viettel Group	2,048
+171.240.208.0/21	 Viettel Group	2,048
+171.240.216.0/21	 Viettel Group	2,048
+171.240.224.0/21	 Viettel Group	2,048
+171.240.232.0/21	 Viettel Group	2,048
+171.240.240.0/21	 Viettel Group	2,048
+171.240.24.0/21	 Viettel Group	2,048
+171.240.248.0/21	 Viettel Group	2,048
+171.240.32.0/21	 Viettel Group	2,048
+171.240.40.0/21	 Viettel Group	2,048
+171.240.48.0/21	 Viettel Group	2,048
+171.240.56.0/21	 Viettel Group	2,048
+171.240.64.0/21	 Viettel Group	2,048
+171.240.72.0/21	 Viettel Group	2,048
+171.240.80.0/22	 Viettel Group	1,024
+171.240.8.0/21	 Viettel Group	2,048
+171.240.84.0/23	 Viettel Group	512
+171.240.86.0/23	 Viettel Group	512
+171.240.88.0/22	 Viettel Group	1,024
+171.240.92.0/22	 Viettel Group	1,024
+171.240.96.0/21	 Viettel Group	2,048
+171.242.128.0/24	 Viettel Group	256
+171.242.129.0/24	 Viettel Group	256
+171.242.130.0/24	 Viettel Group	256
+171.242.131.0/24	 Viettel Group	256
+171.242.132.0/24	 Viettel Group	256
+171.242.137.0/24	 Viettel Group	256
+171.242.138.0/24	 Viettel Group	256
+171.242.139.0/24	 Viettel Group	256
+171.242.140.0/24	 Viettel Group	256
+171.242.144.0/21	 Viettel Group	2,048
+171.242.152.0/21	 Viettel Group	2,048
+171.242.160.0/21	 Viettel Group	2,048
+171.242.168.0/21	 Viettel Group	2,048
+171.242.176.0/21	 Viettel Group	2,048
+171.242.184.0/21	 Viettel Group	2,048
+171.242.192.0/21	 Viettel Group	2,048
+171.242.200.0/21	 Viettel Group	2,048
+171.242.208.0/21	 Viettel Group	2,048
+171.242.216.0/21	 Viettel Group	2,048
+171.242.224.0/21	 Viettel Group	2,048
+171.242.232.0/22	 Viettel Group	1,024
+171.242.236.0/22	 Viettel Group	1,024
+171.242.240.0/21	 Viettel Group	2,048
+171.242.24.0/21	 Viettel Group	2,048
+171.242.248.0/21	 Viettel Group	2,048
+171.242.32.0/21	 Viettel Group	2,048
+171.243.0.0/21	 Viettel Group	2,048
+171.243.104.0/21	 Viettel Group	2,048
+171.243.112.0/21	 Viettel Group	2,048
+171.243.120.0/21	 Viettel Group	2,048
+171.243.128.0/21	 Viettel Group	2,048
+171.243.136.0/21	 Viettel Group	2,048
+171.243.144.0/21	 Viettel Group	2,048
+171.243.152.0/21	 Viettel Group	2,048
+171.243.160.0/21	 Viettel Group	2,048
+171.243.16.0/21	 Viettel Group	2,048
+171.243.168.0/21	 Viettel Group	2,048
+171.243.176.0/21	 Viettel Group	2,048
+171.243.184.0/21	 Viettel Group	2,048
+171.243.192.0/21	 Viettel Group	2,048
+171.243.200.0/21	 Viettel Group	2,048
+171.243.208.0/21	 Viettel Group	2,048
+171.243.216.0/21	 Viettel Group	2,048
+171.243.224.0/21	 Viettel Group	2,048
+171.243.232.0/21	 Viettel Group	2,048
+171.243.240.0/21	 Viettel Group	2,048
+171.243.24.0/21	 Viettel Group	2,048
+171.243.248.0/21	 Viettel Group	2,048
+171.243.32.0/21	 Viettel Group	2,048
+171.243.40.0/21	 Viettel Group	2,048
+171.243.48.0/21	 Viettel Group	2,048
+171.243.56.0/21	 Viettel Group	2,048
+171.243.64.0/21	 Viettel Group	2,048
+171.243.72.0/21	 Viettel Group	2,048
+171.243.80.0/21	 Viettel Group	2,048
+171.243.8.0/21	 Viettel Group	2,048
+171.243.88.0/21	 Viettel Group	2,048
+171.243.96.0/21	 Viettel Group	2,048
+171.244.0.0/14	 Viettel Group	262,144
+171.244.0.0/16	 Viettel Group	65,536
+171.244.104.0/21	 Viettel Group	2,048
+171.244.64.0/21	 Viettel Group	2,048
+171.244.65.0/24	 Viettel Group	256
+171.244.72.0/21	 Viettel Group	2,048
+171.244.74.0/24	 Viettel Group	256
+171.244.80.0/22	 Viettel Group	1,024
+171.244.80.0/24	 Viettel Group	256
+171.244.84.0/23	 Viettel Group	512
+171.244.86.0/23	 Viettel Group	512
+171.244.88.0/21	 Viettel Group	2,048
+171.244.96.0/21	 Viettel Group	2,048
+171.245.0.0/21	 Viettel Group	2,048
+171.245.104.0/21	 Viettel Group	2,048
+171.245.112.0/21	 Viettel Group	2,048
+171.245.120.0/21	 Viettel Group	2,048
+171.245.128.0/20	 Viettel Group	4,096
+171.245.144.0/20	 Viettel Group	4,096
+171.245.160.0/20	 Viettel Group	4,096
+171.245.16.0/21	 Viettel Group	2,048
+171.245.176.0/20	 Viettel Group	4,096
+171.245.192.0/21	 Viettel Group	2,048
+171.245.200.0/21	 Viettel Group	2,048
+171.245.208.0/21	 Viettel Group	2,048
+171.245.216.0/21	 Viettel Group	2,048
+171.245.224.0/21	 Viettel Group	2,048
+171.245.232.0/21	 Viettel Group	2,048
+171.245.240.0/21	 Viettel Group	2,048
+171.245.24.0/21	 Viettel Group	2,048
+171.245.248.0/21	 Viettel Group	2,048
+171.245.32.0/22	 Viettel Group	1,024
+171.245.36.0/22	 Viettel Group	1,024
+171.245.40.0/22	 Viettel Group	1,024
+171.245.44.0/22	 Viettel Group	1,024
+171.245.48.0/21	 Viettel Group	2,048
+171.245.56.0/21	 Viettel Group	2,048
+171.245.64.0/21	 Viettel Group	2,048
+171.245.72.0/21	 Viettel Group	2,048
+171.245.80.0/21	 Viettel Group	2,048
+171.245.8.0/21	 Viettel Group	2,048
+171.245.88.0/21	 Viettel Group	2,048
+171.245.96.0/21	 Viettel Group	2,048
+171.246.0.0/16	 Viettel Group	65,536
+171.246.0.0/21	 Viettel Group	2,048
+171.246.104.0/21	 Viettel Group	2,048
+171.246.112.0/21	 Viettel Group	2,048
+171.246.120.0/21	 Viettel Group	2,048
+171.246.128.0/21	 Viettel Group	2,048
+171.246.136.0/21	 Viettel Group	2,048
+171.246.144.0/21	 Viettel Group	2,048
+171.246.152.0/21	 Viettel Group	2,048
+171.246.160.0/21	 Viettel Group	2,048
+171.246.16.0/21	 Viettel Group	2,048
+171.246.168.0/21	 Viettel Group	2,048
+171.246.176.0/21	 Viettel Group	2,048
+171.246.184.0/21	 Viettel Group	2,048
+171.246.192.0/21	 Viettel Group	2,048
+171.246.200.0/21	 Viettel Group	2,048
+171.246.208.0/21	 Viettel Group	2,048
+171.246.216.0/21	 Viettel Group	2,048
+171.246.224.0/21	 Viettel Group	2,048
+171.246.232.0/21	 Viettel Group	2,048
+171.246.240.0/21	 Viettel Group	2,048
+171.246.24.0/21	 Viettel Group	2,048
+171.246.248.0/21	 Viettel Group	2,048
+171.246.32.0/21	 Viettel Group	2,048
+171.246.40.0/21	 Viettel Group	2,048
+171.246.48.0/21	 Viettel Group	2,048
+171.246.56.0/21	 Viettel Group	2,048
+171.246.64.0/21	 Viettel Group	2,048
+171.246.72.0/21	 Viettel Group	2,048
+171.246.80.0/21	 Viettel Group	2,048
+171.246.8.0/21	 Viettel Group	2,048
+171.246.88.0/21	 Viettel Group	2,048
+171.246.96.0/21	 Viettel Group	2,048
+171.247.0.0/16	 Viettel Group	65,536
+171.247.0.0/21	 Viettel Group	2,048
+171.247.104.0/21	 Viettel Group	2,048
+171.247.112.0/21	 Viettel Group	2,048
+171.247.120.0/21	 Viettel Group	2,048
+171.247.128.0/21	 Viettel Group	2,048
+171.247.136.0/21	 Viettel Group	2,048
+171.247.144.0/21	 Viettel Group	2,048
+171.247.152.0/21	 Viettel Group	2,048
+171.247.160.0/21	 Viettel Group	2,048
+171.247.16.0/21	 Viettel Group	2,048
+171.247.168.0/21	 Viettel Group	2,048
+171.247.176.0/21	 Viettel Group	2,048
+171.247.184.0/21	 Viettel Group	2,048
+171.247.192.0/21	 Viettel Group	2,048
+171.247.200.0/21	 Viettel Group	2,048
+171.247.208.0/21	 Viettel Group	2,048
+171.247.216.0/21	 Viettel Group	2,048
+171.247.224.0/21	 Viettel Group	2,048
+171.247.232.0/21	 Viettel Group	2,048
+171.247.240.0/21	 Viettel Group	2,048
+171.247.24.0/21	 Viettel Group	2,048
+171.247.248.0/21	 Viettel Group	2,048
+171.247.32.0/21	 Viettel Group	2,048
+171.247.40.0/21	 Viettel Group	2,048
+171.247.48.0/21	 Viettel Group	2,048
+171.247.56.0/21	 Viettel Group	2,048
+171.247.64.0/21	 Viettel Group	2,048
+171.247.72.0/21	 Viettel Group	2,048
+171.247.80.0/21	 Viettel Group	2,048
+171.247.8.0/21	 Viettel Group	2,048
+171.247.88.0/21	 Viettel Group	2,048
+171.247.96.0/21	 Viettel Group	2,048
+171.248.0.0/13	 Viettel Group	524,288
+171.248.0.0/14	 Viettel Group	262,144
+171.248.0.0/21	 Viettel Group	2,048
+171.248.104.0/21	 Viettel Group	2,048
+171.248.112.0/21	 Viettel Group	2,048
+171.248.120.0/21	 Viettel Group	2,048
+171.248.128.0/21	 Viettel Group	2,048
+171.248.136.0/21	 Viettel Group	2,048
+171.248.144.0/21	 Viettel Group	2,048
+171.248.152.0/21	 Viettel Group	2,048
+171.248.160.0/21	 Viettel Group	2,048
+171.248.16.0/21	 Viettel Group	2,048
+171.248.168.0/21	 Viettel Group	2,048
+171.248.176.0/21	 Viettel Group	2,048
+171.248.184.0/21	 Viettel Group	2,048
+171.248.192.0/21	 Viettel Group	2,048
+171.248.200.0/21	 Viettel Group	2,048
+171.248.208.0/21	 Viettel Group	2,048
+171.248.216.0/21	 Viettel Group	2,048
+171.248.224.0/21	 Viettel Group	2,048
+171.248.232.0/21	 Viettel Group	2,048
+171.248.240.0/21	 Viettel Group	2,048
+171.248.24.0/21	 Viettel Group	2,048
+171.248.248.0/21	 Viettel Group	2,048
+171.248.32.0/21	 Viettel Group	2,048
+171.248.40.0/21	 Viettel Group	2,048
+171.248.48.0/21	 Viettel Group	2,048
+171.248.56.0/21	 Viettel Group	2,048
+171.248.64.0/21	 Viettel Group	2,048
+171.248.72.0/21	 Viettel Group	2,048
+171.248.80.0/21	 Viettel Group	2,048
+171.248.8.0/21	 Viettel Group	2,048
+171.248.88.0/21	 Viettel Group	2,048
+171.248.96.0/21	 Viettel Group	2,048
+171.249.0.0/21	 Viettel Group	2,048
+171.249.104.0/21	 Viettel Group	2,048
+171.249.112.0/21	 Viettel Group	2,048
+171.249.120.0/21	 Viettel Group	2,048
+171.249.128.0/22	 Viettel Group	1,024
+171.249.132.0/22	 Viettel Group	1,024
+171.249.136.0/22	 Viettel Group	1,024
+171.249.140.0/22	 Viettel Group	1,024
+171.249.144.0/21	 Viettel Group	2,048
+171.249.152.0/21	 Viettel Group	2,048
+171.249.160.0/21	 Viettel Group	2,048
+171.249.16.0/21	 Viettel Group	2,048
+171.249.172.0/23	 Viettel Group	512
+171.249.174.0/23	 Viettel Group	512
+171.249.176.0/21	 Viettel Group	2,048
+171.249.184.0/21	 Viettel Group	2,048
+171.249.192.0/21	 Viettel Group	2,048
+171.249.200.0/21	 Viettel Group	2,048
+171.249.208.0/21	 Viettel Group	2,048
+171.249.216.0/21	 Viettel Group	2,048
+171.249.224.0/21	 Viettel Group	2,048
+171.249.232.0/21	 Viettel Group	2,048
+171.249.240.0/21	 Viettel Group	2,048
+171.249.248.0/21	 Viettel Group	2,048
+171.249.32.0/21	 Viettel Group	2,048
+171.249.40.0/21	 Viettel Group	2,048
+171.249.48.0/21	 Viettel Group	2,048
+171.249.56.0/21	 Viettel Group	2,048
+171.249.64.0/21	 Viettel Group	2,048
+171.249.72.0/21	 Viettel Group	2,048
+171.249.80.0/21	 Viettel Group	2,048
+171.249.8.0/21	 Viettel Group	2,048
+171.249.88.0/21	 Viettel Group	2,048
+171.249.96.0/21	 Viettel Group	2,048
+171.249.96.0/22	 Viettel Group	1,024
+171.250.0.0/21	 Viettel Group	2,048
+171.250.104.0/21	 Viettel Group	2,048
+171.250.112.0/21	 Viettel Group	2,048
+171.250.120.0/21	 Viettel Group	2,048
+171.250.128.0/21	 Viettel Group	2,048
+171.250.136.0/21	 Viettel Group	2,048
+171.250.144.0/21	 Viettel Group	2,048
+171.250.152.0/21	 Viettel Group	2,048
+171.250.160.0/21	 Viettel Group	2,048
+171.250.16.0/21	 Viettel Group	2,048
+171.250.168.0/21	 Viettel Group	2,048
+171.250.176.0/21	 Viettel Group	2,048
+171.250.184.0/21	 Viettel Group	2,048
+171.250.192.0/21	 Viettel Group	2,048
+171.250.200.0/21	 Viettel Group	2,048
+171.250.208.0/21	 Viettel Group	2,048
+171.250.216.0/21	 Viettel Group	2,048
+171.250.224.0/19	 Viettel Group	8,192
+171.250.224.0/20	 Viettel Group	4,096
+171.250.229.0/24	 Viettel Group	256
+171.250.240.0/22	 Viettel Group	1,024
+171.250.24.0/21	 Viettel Group	2,048
+171.250.241.0/24	 Viettel Group	256
+171.250.244.0/22	 Viettel Group	1,024
+171.250.248.0/21	 Viettel Group	2,048
+171.250.32.0/21	 Viettel Group	2,048
+171.250.40.0/21	 Viettel Group	2,048
+171.250.48.0/21	 Viettel Group	2,048
+171.250.56.0/21	 Viettel Group	2,048
+171.250.64.0/21	 Viettel Group	2,048
+171.250.72.0/21	 Viettel Group	2,048
+171.250.80.0/21	 Viettel Group	2,048
+171.250.8.0/21	 Viettel Group	2,048
+171.250.88.0/21	 Viettel Group	2,048
+171.250.96.0/21	 Viettel Group	2,048
+171.250.96.0/22	 Viettel Group	1,024
+171.251.0.0/21	 Viettel Group	2,048
+171.251.104.0/21	 Viettel Group	2,048
+171.251.112.0/21	 Viettel Group	2,048
+171.251.120.0/21	 Viettel Group	2,048
+171.251.128.0/24	 Viettel Group	256
+171.251.129.0/24	 Viettel Group	256
+171.251.130.0/24	 Viettel Group	256
+171.251.131.0/24	 Viettel Group	256
+171.251.132.0/24	 Viettel Group	256
+171.251.133.0/24	 Viettel Group	256
+171.251.134.0/24	 Viettel Group	256
+171.251.135.0/24	 Viettel Group	256
+171.251.136.0/24	 Viettel Group	256
+171.251.137.0/24	 Viettel Group	256
+171.251.138.0/24	 Viettel Group	256
+171.251.139.0/24	 Viettel Group	256
+171.251.140.0/24	 Viettel Group	256
+171.251.141.0/24	 Viettel Group	256
+171.251.142.0/24	 Viettel Group	256
+171.251.143.0/24	 Viettel Group	256
+171.251.144.0/24	 Viettel Group	256
+171.251.145.0/24	 Viettel Group	256
+171.251.146.0/24	 Viettel Group	256
+171.251.147.0/24	 Viettel Group	256
+171.251.148.0/24	 Viettel Group	256
+171.251.149.0/24	 Viettel Group	256
+171.251.160.0/21	 Viettel Group	2,048
+171.251.16.0/21	 Viettel Group	2,048
+171.251.168.0/21	 Viettel Group	2,048
+171.251.176.0/24	 Viettel Group	256
+171.251.177.0/24	 Viettel Group	256
+171.251.178.0/24	 Viettel Group	256
+171.251.179.0/24	 Viettel Group	256
+171.251.192.0/21	 Viettel Group	2,048
+171.251.200.0/22	 Viettel Group	1,024
+171.251.204.0/22	 Viettel Group	1,024
+171.251.208.0/21	 Viettel Group	2,048
+171.251.216.0/21	 Viettel Group	2,048
+171.251.224.0/21	 Viettel Group	2,048
+171.251.232.0/21	 Viettel Group	2,048
+171.251.240.0/21	 Viettel Group	2,048
+171.251.24.0/21	 Viettel Group	2,048
+171.251.248.0/21	 Viettel Group	2,048
+171.251.32.0/21	 Viettel Group	2,048
+171.251.40.0/21	 Viettel Group	2,048
+171.251.48.0/21	 Viettel Group	2,048
+171.251.53.0/24	 Viettel Group	256
+171.251.56.0/21	 Viettel Group	2,048
+171.251.64.0/22	 Viettel Group	1,024
+171.251.72.0/24	 Viettel Group	256
+171.251.73.0/24	 Viettel Group	256
+171.251.74.0/24	 Viettel Group	256
+171.251.75.0/24	 Viettel Group	256
+171.251.76.0/22	 Viettel Group	1,024
+171.251.80.0/21	 Viettel Group	2,048
+171.251.8.0/21	 Viettel Group	2,048
+171.251.88.0/21	 Viettel Group	2,048
+171.251.96.0/21	 Viettel Group	2,048
+171.252.0.0/16	 Viettel Group	65,536
+171.253.0.0/20	 Viettel Group	4,096
+171.253.0.0/21	 Viettel Group	2,048
+171.253.104.0/22	 Viettel Group	1,024
+171.253.108.0/22	 Viettel Group	1,024
+171.253.112.0/21	 Viettel Group	2,048
+171.253.120.0/21	 Viettel Group	2,048
+171.253.128.0/20	 Viettel Group	4,096
+171.253.144.0/20	 Viettel Group	4,096
+171.253.160.0/20	 Viettel Group	4,096
+171.253.16.0/20	 Viettel Group	4,096
+171.253.16.0/21	 Viettel Group	2,048
+171.253.176.0/20	 Viettel Group	4,096
+171.253.192.0/21	 Viettel Group	2,048
+171.253.200.0/21	 Viettel Group	2,048
+171.253.208.0/21	 Viettel Group	2,048
+171.253.216.0/21	 Viettel Group	2,048
+171.253.24.0/21	 Viettel Group	2,048
+171.253.32.0/21	 Viettel Group	2,048
+171.253.40.0/21	 Viettel Group	2,048
+171.253.48.0/21	 Viettel Group	2,048
+171.253.56.0/21	 Viettel Group	2,048
+171.253.64.0/21	 Viettel Group	2,048
+171.253.72.0/21	 Viettel Group	2,048
+171.253.80.0/21	 Viettel Group	2,048
+171.253.8.0/21	 Viettel Group	2,048
+171.253.88.0/21	 Viettel Group	2,048
+171.253.96.0/21	 Viettel Group	2,048
+171.254.0.0/16	 Viettel Group	65,536
+171.254.0.0/17	 Viettel Group	32,768
+171.254.0.0/20	 Viettel Group	4,096
+171.254.128.0/19	 Viettel Group	8,192
+171.254.160.0/19	 Viettel Group	8,192
+171.254.16.0/20	 Viettel Group	4,096
+171.254.32.0/22	 Viettel Group	1,024
+171.254.36.0/22	 Viettel Group	1,024
+171.254.40.0/22	 Viettel Group	1,024
+171.255.0.0/20	 Viettel Group	4,096
+171.255.112.0/20	 Viettel Group	4,096
+171.255.128.0/20	 Viettel Group	4,096
+171.255.144.0/20	 Viettel Group	4,096
+171.255.160.0/22	 Viettel Group	1,024
+171.255.16.0/21	 Viettel Group	2,048
+171.255.164.0/22	 Viettel Group	1,024
+171.255.168.0/22	 Viettel Group	1,024
+171.255.172.0/22	 Viettel Group	1,024
+171.255.192.0/24	 Viettel Group	256
+171.255.193.0/24	 Viettel Group	256
+171.255.208.0/21	 Viettel Group	2,048
+171.255.216.0/21	 Viettel Group	2,048
+171.255.224.0/21	 Viettel Group	2,048
+171.255.232.0/21	 Viettel Group	2,048
+171.255.240.0/20	 Viettel Group	4,096
+171.255.24.0/21	 Viettel Group	2,048
+171.255.32.0/20	 Viettel Group	4,096
+171.255.64.0/20	 Viettel Group	4,096
+171.255.80.0/20	 Viettel Group	4,096
+171.255.96.0/20	 Viettel Group	4,096
+202.4.168.0/24	 Vietnam Export Import Commercial Joint stock Bank	256
+202.6.96.0/23	 Vietnam News Agency	512
+203.113.128.0/18	 Viettel Corporation	16,384
+203.113.128.0/22	 Ip range for Dialupservice in Hanoi City	1,024
+203.113.130.0/23	 Ip range for New ISP system	512
+203.113.131.0/24	 Ip range for New ISP system	256
+203.113.132.0/22	 Ip range for Leased line service in Hanoi	1,024
+203.113.134.0/23	 Ip range for Leased line service in Hanoi	512
+203.113.135.0/24	 Ip range for Leased line service in Hanoi	256
+203.113.136.0/22	 Ip range for Leased line service in Hanoi	1,024
+203.113.136.0/24	 Ip range for Leased line service in Hanoi	256
+203.113.137.0/24	 Ip range for Leased line service in Hanoi	256
+203.113.138.0/23	 Dai IP cho He thong Lap PKT cua Vietel	512
+203.113.140.0/22	 Dai IP cho dau noi Leased line tai Hanoi	1,024
+203.113.144.0/22	 Dai IP cho Seorim	1,024
+203.113.144.0/24	 Viettel Group	256
+203.113.148.0/22	 Dai IP cho Vinagame	1,024
+203.113.150.0/24	 Dai IP cho Vinagame	256
+203.113.152.0/22	 Dai IP cho Vietel	1,024
+203.113.153.0/24	 Dai IP cho Vietel	256
+203.113.154.0/24	 Dai IP cho Vietel	256
+203.113.156.0/22	 Dai IP cho Vietel	1,024
+203.113.159.0/24	 Dai IP cho Vietel	256
+203.113.160.0/22	 Viettel Group	1,024
+203.113.162.0/24	 Viettel Group	256
+203.113.164.0/22	 Viettel Group	1,024
+203.113.164.0/24	 Viettel Group	256
+203.113.168.0/22	 Viettel Group	1,024
+203.113.168.0/24	 Viettel Group	256
+203.113.172.0/22	 Viettel Group	1,024
+203.113.176.0/22	 Viettel Group	1,024
+203.113.176.0/24	 Viettel Group	256
+203.113.179.0/24	 Viettel Group	256
+203.113.180.0/22	 Viettel Group	1,024
+203.113.184.0/22	 Viettel Group	1,024
+203.113.188.0/24	 Viettel Group	256
+203.190.162.0/24	 ip range assigned for northern voice ip network of ETC	256
+203.190.164.0/24	 ip range assigned for broadband internet service in Northern area	256
+203.190.165.0/24	 Cong ty Netnam	256
+203.190.170.0/24	 ip range assigned for southern voice ip network of ETC	256
+203.190.171.0/24	 ip range assigned for ETC's core internet network in HCMC	256
+203.190.172.0/24	 ip range assigned for broadband internet service in Southern Area	256
+203.190.173.0/24	 ip range assigned for Internet Cable in HCMC	256
+220.231.100.0/22	 Viettel Group	1,024
+220.231.101.0/24	 Viettel Group	256
+220.231.102.0/24	 Viettel Group	256
+220.231.103.0/24	 Viettel Group	256
+220.231.104.0/22	 Viettel Group	1,024
+220.231.105.0/24	 Viettel Group	256
+220.231.106.0/23	 Viettel Group	512
+220.231.106.0/24	 Viettel Group	256
+220.231.108.0/22	 Viettel Group	1,024
+220.231.108.0/24	 Viettel Group	256
+220.231.109.0/24	 Viettel Group	256
+220.231.110.0/24	 Viettel Group	256
+220.231.111.0/24	 Viettel Group	256
+220.231.112.0/22	 Viettel Group	1,024
+220.231.112.0/24	 Viettel Group	256
+220.231.113.0/24	 Viettel Group	256
+220.231.114.0/24	 Viettel Group	256
+220.231.115.0/24	 Viettel Group	256
+220.231.116.0/22	 Viettel Group	1,024
+220.231.117.0/24	 Viettel Group	256
+220.231.118.0/23	 Viettel Group	512
+220.231.118.0/24	 Viettel Group	256
+220.231.119.0/24	 Viettel Group	256
+220.231.120.0/21	 Viettel Group	2,048
+220.231.120.0/22	 Viettel Group	1,024
+220.231.120.0/24	 Viettel Group	256
+220.231.121.0/24	 Viettel Group	256
+220.231.124.0/22	 Viettel Group	1,024
+220.231.127.0/24	 Viettel Group	256
+220.231.64.0/20	 Dai IP cho Vinagame	4,096
+220.231.64.0/21	 Dai IP cho Vinagame	2,048
+220.231.64.0/22	 Dai IP cho Vinagame	1,024
+220.231.68.0/22	 Viettel Group	1,024
+220.231.69.0/24	 Viettel Group	256
+220.231.72.0/21	 Viettel Group	2,048
+220.231.72.0/22	 Viettel Group	1,024
+220.231.76.0/22	 Viettel Group	1,024
+220.231.80.0/20	 Viettel Group	4,096
+220.231.80.0/22	 Viettel Group	1,024
+220.231.84.0/22	 Viettel Group	1,024
+220.231.88.0/22	 Viettel Group	1,024
+220.231.89.0/24	 Viettel Group	256
+220.231.92.0/22	 Viettel Group	1,024
+220.231.96.0/20	 Viettel Group	4,096
+220.231.96.0/22	 Viettel Group	1,024
+220.231.96.0/24	 Viettel Group	256
+220.231.97.0/24	 Viettel Group	256
+220.231.98.0/24	 Viettel Group	256
+220.231.99.0/24	 Viettel Group	256
+27.64.0.0/12	 Viettel Group	1,048,576
+27.64.0.0/13	 Viettel Group	524,288
+27.64.0.0/14	 Viettel Group	262,144
+27.64.0.0/16	 Viettel Group	65,536
+27.64.0.0/18	 Viettel Group	16,384
+27.64.0.0/21	 Viettel Group	2,048
+27.64.104.0/21	 Viettel Group	2,048
+27.64.112.0/21	 Viettel Group	2,048
+27.64.120.0/21	 Viettel Group	2,048
+27.64.128.0/18	 Viettel Group	16,384
+27.64.128.0/22	 Viettel Group	1,024
+27.64.132.0/22	 Viettel Group	1,024
+27.64.136.0/22	 Viettel Group	1,024
+27.64.140.0/22	 Viettel Group	1,024
+27.64.144.0/21	 Viettel Group	2,048
+27.64.152.0/21	 Viettel Group	2,048
+27.64.160.0/21	 Viettel Group	2,048
+27.64.16.0/21	 Viettel Group	2,048
+27.64.168.0/21	 Viettel Group	2,048
+27.64.176.0/21	 Viettel Group	2,048
+27.64.184.0/21	 Viettel Group	2,048
+27.64.192.0/18	 Viettel Group	16,384
+27.64.192.0/21	 Viettel Group	2,048
+27.64.200.0/21	 Viettel Group	2,048
+27.64.208.0/21	 Viettel Group	2,048
+27.64.216.0/21	 Viettel Group	2,048
+27.64.224.0/21	 Viettel Group	2,048
+27.64.232.0/21	 Viettel Group	2,048
+27.64.240.0/21	 Viettel Group	2,048
+27.64.24.0/21	 Viettel Group	2,048
+27.64.248.0/21	 Viettel Group	2,048
+27.64.32.0/21	 Viettel Group	2,048
+27.64.40.0/21	 Viettel Group	2,048
+27.64.48.0/21	 Viettel Group	2,048
+27.64.56.0/21	 Viettel Group	2,048
+27.64.64.0/18	 Viettel Group	16,384
+27.64.64.0/21	 Viettel Group	2,048
+27.64.72.0/21	 Viettel Group	2,048
+27.64.80.0/21	 Viettel Group	2,048
+27.64.8.0/21	 Viettel Group	2,048
+27.64.88.0/21	 Viettel Group	2,048
+27.64.96.0/21	 Viettel Group	2,048
+27.65.0.0/21	 Viettel Group	2,048
+27.65.104.0/21	 Viettel Group	2,048
+27.65.112.0/21	 Viettel Group	2,048
+27.65.120.0/21	 Viettel Group	2,048
+27.65.128.0/17	 Viettel Group	32,768
+27.65.128.0/18	 Viettel Group	16,384
+27.65.16.0/21	 Viettel Group	2,048
+27.65.192.0/19	 Viettel Group	8,192
+27.65.224.0/21	 Viettel Group	2,048
+27.65.232.0/21	 Viettel Group	2,048
+27.65.240.0/21	 Viettel Group	2,048
+27.65.24.0/21	 Viettel Group	2,048
+27.65.248.0/21	 Viettel Group	2,048
+27.65.32.0/21	 Viettel Group	2,048
+27.65.40.0/21	 Viettel Group	2,048
+27.65.48.0/21	 Viettel Group	2,048
+27.65.56.0/21	 Viettel Group	2,048
+27.65.64.0/21	 Viettel Group	2,048
+27.65.72.0/21	 Viettel Group	2,048
+27.65.80.0/21	 Viettel Group	2,048
+27.65.8.0/21	 Viettel Group	2,048
+27.65.88.0/21	 Viettel Group	2,048
+27.65.96.0/21	 Viettel Group	2,048
+27.66.0.0/16	 Viettel Group	65,536
+27.66.0.0/17	 Viettel Group	32,768
+27.66.0.0/20	 Viettel Group	4,096
+27.66.128.0/19	 Viettel Group	8,192
+27.66.128.0/20	 Viettel Group	4,096
+27.66.144.0/20	 Viettel Group	4,096
+27.66.160.0/20	 Viettel Group	4,096
+27.66.160.0/21	 Viettel Group	2,048
+27.66.16.0/20	 Viettel Group	4,096
+27.66.168.0/21	 Viettel Group	2,048
+27.66.32.0/22	 Viettel Group	1,024
+27.66.36.0/22	 Viettel Group	1,024
+27.66.40.0/22	 Viettel Group	1,024
+27.67.0.0/20	 Viettel Group	4,096
+27.67.128.0/20	 Viettel Group	4,096
+27.67.144.0/20	 Viettel Group	4,096
+27.67.160.0/20	 Viettel Group	4,096
+27.67.16.0/20	 Viettel Group	4,096
+27.67.176.0/20	 Viettel Group	4,096
+27.67.192.0/21	 Viettel Group	2,048
+27.67.200.0/21	 Viettel Group	2,048
+27.67.208.0/21	 Viettel Group	2,048
+27.67.216.0/21	 Viettel Group	2,048
+27.67.224.0/20	 Viettel Group	4,096
+27.67.240.0/20	 Viettel Group	4,096
+27.67.32.0/21	 Viettel Group	2,048
+27.67.40.0/21	 Viettel Group	2,048
+27.67.48.0/24	 Viettel Group	256
+27.67.49.0/24	 Viettel Group	256
+27.67.50.0/24	 Viettel Group	256
+27.67.63.0/24	 Viettel Group	256
+27.68.0.0/14	 Viettel Group	262,144
+27.68.0.0/16	 Viettel Group	65,536
+27.68.0.0/18	 Viettel Group	16,384
+27.68.0.0/21	 Viettel Group	2,048
+27.68.104.0/21	 Viettel Group	2,048
+27.68.112.0/20	 Viettel Group	4,096
+27.68.128.0/18	 Viettel Group	16,384
+27.68.131.0/24	 Viettel Group	256
+27.68.134.0/24	 Viettel Group	256
+27.68.135.0/24	 Viettel Group	256
+27.68.16.0/21	 Viettel Group	2,048
+27.68.192.0/18	 Viettel Group	16,384
+27.68.195.0/24	 Viettel Group	256
+27.68.224.0/19	 Viettel Group	8,192
+27.68.24.0/21	 Viettel Group	2,048
+27.68.244.0/22	 Viettel Group	1,024
+27.68.248.0/22	 Viettel Group	1,024
+27.68.32.0/21	 Viettel Group	2,048
+27.68.40.0/21	 Viettel Group	2,048
+27.68.48.0/21	 Viettel Group	2,048
+27.68.56.0/21	 Viettel Group	2,048
+27.68.64.0/18	 Viettel Group	16,384
+27.68.64.0/21	 Viettel Group	2,048
+27.68.72.0/21	 Viettel Group	2,048
+27.68.80.0/22	 Viettel Group	1,024
+27.68.8.0/21	 Viettel Group	2,048
+27.68.84.0/22	 Viettel Group	1,024
+27.68.88.0/21	 Viettel Group	2,048
+27.68.96.0/21	 Viettel Group	2,048
+27.69.0.0/16	 Viettel Group	65,536
+27.69.0.0/20	 Viettel Group	4,096
+27.69.112.0/20	 Viettel Group	4,096
+27.69.128.0/21	 Viettel Group	2,048
+27.69.136.0/21	 Viettel Group	2,048
+27.69.144.0/21	 Viettel Group	2,048
+27.69.152.0/21	 Viettel Group	2,048
+27.69.160.0/21	 Viettel Group	2,048
+27.69.16.0/20	 Viettel Group	4,096
+27.69.168.0/21	 Viettel Group	2,048
+27.69.176.0/21	 Viettel Group	2,048
+27.69.184.0/21	 Viettel Group	2,048
+27.69.192.0/21	 Viettel Group	2,048
+27.69.200.0/21	 Viettel Group	2,048
+27.69.208.0/21	 Viettel Group	2,048
+27.69.216.0/21	 Viettel Group	2,048
+27.69.224.0/21	 Viettel Group	2,048
+27.69.232.0/21	 Viettel Group	2,048
+27.69.240.0/21	 Viettel Group	2,048
+27.69.248.0/21	 Viettel Group	2,048
+27.69.32.0/20	 Viettel Group	4,096
+27.69.48.0/20	 Viettel Group	4,096
+27.69.64.0/20	 Viettel Group	4,096
+27.69.80.0/20	 Viettel Group	4,096
+27.69.96.0/20	 Viettel Group	4,096
+27.70.0.0/16	 Viettel Group	65,536
+27.70.0.0/20	 Viettel Group	4,096
+27.70.112.0/20	 Viettel Group	4,096
+27.70.128.0/21	 Viettel Group	2,048
+27.70.136.0/21	 Viettel Group	2,048
+27.70.144.0/21	 Viettel Group	2,048
+27.70.152.0/21	 Viettel Group	2,048
+27.70.160.0/21	 Viettel Group	2,048
+27.70.16.0/20	 Viettel Group	4,096
+27.70.168.0/21	 Viettel Group	2,048
+27.70.176.0/21	 Viettel Group	2,048
+27.70.184.0/21	 Viettel Group	2,048
+27.70.192.0/21	 Viettel Group	2,048
+27.70.200.0/21	 Viettel Group	2,048
+27.70.208.0/21	 Viettel Group	2,048
+27.70.216.0/21	 Viettel Group	2,048
+27.70.224.0/21	 Viettel Group	2,048
+27.70.232.0/21	 Viettel Group	2,048
+27.70.240.0/20	 Viettel Group	4,096
+27.70.32.0/20	 Viettel Group	4,096
+27.70.48.0/20	 Viettel Group	4,096
+27.70.64.0/20	 Viettel Group	4,096
+27.70.80.0/20	 Viettel Group	4,096
+27.70.96.0/20	 Viettel Group	4,096
+27.71.0.0/16	 Viettel Group	65,536
+27.71.128.0/21	 Viettel Group	2,048
+27.71.136.0/21	 Viettel Group	2,048
+27.71.144.0/21	 Viettel Group	2,048
+27.71.152.0/21	 Viettel Group	2,048
+27.71.160.0/21	 Viettel Group	2,048
+27.71.168.0/21	 Viettel Group	2,048
+27.71.176.0/24	 Viettel Group	256
+27.71.177.0/24	 Viettel Group	256
+27.71.178.0/24	 Viettel Group	256
+27.71.179.0/24	 Viettel Group	256
+27.71.180.0/24	 Viettel Group	256
+27.71.181.0/24	 Viettel Group	256
+27.71.182.0/23	 Viettel Group	512
+27.71.184.0/22	 Viettel Group	1,024
+27.71.188.0/24	 Viettel Group	256
+27.71.189.0/24	 Viettel Group	256
+27.71.190.0/23	 Viettel Group	512
+27.71.32.0/20	 Viettel Group	4,096
+27.71.48.0/20	 Viettel Group	4,096
+27.71.64.0/20	 Viettel Group	4,096
+27.71.80.0/20	 Viettel Group	4,096
+27.71.96.0/20	 Viettel Group	4,096
+27.72.0.0/13	 Viettel Group	524,288
+27.72.0.0/14	 Viettel Group	262,144
+27.72.0.0/16	 Viettel Group	65,536
+27.72.0.0/20	 Viettel Group	4,096
+27.72.0.0/21	 Viettel Group	2,048
+27.72.112.0/20	 Viettel Group	4,096
+27.72.112.0/24	 Viettel Group	256
+27.72.113.0/24	 Viettel Group	256
+27.72.128.0/17	 Viettel Group	32,768
+27.72.128.0/18	 Viettel Group	16,384
+27.72.128.0/20	 Viettel Group	4,096
+27.72.128.0/21	 Viettel Group	2,048
+27.72.136.0/21	 Viettel Group	2,048
+27.72.144.0/20	 Viettel Group	4,096
+27.72.148.0/24	 Viettel Group	256
+27.72.149.0/24	 Viettel Group	256
+27.72.150.0/24	 Viettel Group	256
+27.72.151.0/24	 Viettel Group	256
+27.72.152.0/24	 Viettel Group	256
+27.72.153.0/24	 Viettel Group	256
+27.72.154.0/24	 Viettel Group	256
+27.72.156.0/24	 Viettel Group	256
+27.72.159.0/24	 Viettel Group	256
+27.72.160.0/20	 Viettel Group	4,096
+27.72.16.0/22	 Viettel Group	1,024
+27.72.163.0/24	 Viettel Group	256
+27.72.166.0/24	 Viettel Group	256
+27.72.167.0/24	 Viettel Group	256
+27.72.168.0/24	 Viettel Group	256
+27.72.169.0/24	 Viettel Group	256
+27.72.170.0/24	 Viettel Group	256
+27.72.171.0/24	 Viettel Group	256
+27.72.172.0/24	 Viettel Group	256
+27.72.173.0/24	 Viettel Group	256
+27.72.174.0/24	 Viettel Group	256
+27.72.175.0/24	 Viettel Group	256
+27.72.176.0/20	 Viettel Group	4,096
+27.72.192.0/18	 Viettel Group	16,384
+27.72.192.0/21	 Viettel Group	2,048
+27.72.200.0/21	 Viettel Group	2,048
+27.72.20.0/22	 Viettel Group	1,024
+27.72.208.0/20	 Viettel Group	4,096
+27.72.219.0/24	 Viettel Group	256
+27.72.220.0/22	 Viettel Group	1,024
+27.72.224.0/20	 Viettel Group	4,096
+27.72.23.0/24	 Viettel Group	256
+27.72.240.0/20	 Viettel Group	4,096
+27.72.24.0/23	 Viettel Group	512
+27.72.25.0/24	 Viettel Group	256
+27.72.26.0/23	 Viettel Group	512
+27.72.28.0/22	 Viettel Group	1,024
+27.72.32.0/20	 Viettel Group	4,096
+27.72.32.0/22	 Viettel Group	1,024
+27.72.36.0/22	 Viettel Group	1,024
+27.72.40.0/24	 Viettel Group	256
+27.72.42.0/24	 Viettel Group	256
+27.72.48.0/20	 Viettel Group	4,096
+27.72.48.0/21	 Viettel Group	2,048
+27.72.64.0/20	 Viettel Group	4,096
+27.72.64.0/22	 Viettel Group	1,024
+27.72.68.0/22	 Viettel Group	1,024
+27.72.72.0/24	 Viettel Group	256
+27.72.73.0/24	 Viettel Group	256
+27.72.80.0/20	 Viettel Group	4,096
+27.72.80.0/24	 Viettel Group	256
+27.72.8.0/21	 Viettel Group	2,048
+27.72.82.0/24	 Viettel Group	256
+27.72.96.0/20	 Viettel Group	4,096
+27.73.0.0/21	 Viettel Group	2,048
+27.73.112.0/20	 Viettel Group	4,096
+27.73.128.0/21	 Viettel Group	2,048
+27.73.136.0/21	 Viettel Group	2,048
+27.73.144.0/21	 Viettel Group	2,048
+27.73.152.0/21	 Viettel Group	2,048
+27.73.160.0/21	 Viettel Group	2,048
+27.73.16.0/21	 Viettel Group	2,048
+27.73.168.0/21	 Viettel Group	2,048
+27.73.176.0/21	 Viettel Group	2,048
+27.73.184.0/21	 Viettel Group	2,048
+27.73.192.0/21	 Viettel Group	2,048
+27.73.200.0/21	 Viettel Group	2,048
+27.73.208.0/21	 Viettel Group	2,048
+27.73.216.0/21	 Viettel Group	2,048
+27.73.224.0/21	 Viettel Group	2,048
+27.73.232.0/21	 Viettel Group	2,048
+27.73.240.0/21	 Viettel Group	2,048
+27.73.24.0/21	 Viettel Group	2,048
+27.73.248.0/21	 Viettel Group	2,048
+27.73.32.0/21	 Viettel Group	2,048
+27.73.40.0/21	 Viettel Group	2,048
+27.73.48.0/20	 Viettel Group	4,096
+27.73.64.0/21	 Viettel Group	2,048
+27.73.72.0/21	 Viettel Group	2,048
+27.73.80.0/21	 Viettel Group	2,048
+27.73.8.0/21	 Viettel Group	2,048
+27.73.88.0/22	 Viettel Group	1,024
+27.73.92.0/23	 Viettel Group	512
+27.73.94.0/24	 Viettel Group	256
+27.73.95.0/24	 Viettel Group	256
+27.73.96.0/20	 Viettel Group	4,096
+27.74.0.0/16	 Viettel Group	65,536
+27.74.0.0/21	 Viettel Group	2,048
+27.74.104.0/21	 Viettel Group	2,048
+27.74.112.0/21	 Viettel Group	2,048
+27.74.120.0/21	 Viettel Group	2,048
+27.74.128.0/21	 Viettel Group	2,048
+27.74.136.0/21	 Viettel Group	2,048
+27.74.144.0/21	 Viettel Group	2,048
+27.74.152.0/21	 Viettel Group	2,048
+27.74.155.0/24	 Viettel Group	256
+27.74.160.0/22	 Viettel Group	1,024
+27.74.16.0/21	 Viettel Group	2,048
+27.74.164.0/22	 Viettel Group	1,024
+27.74.168.0/21	 Viettel Group	2,048
+27.74.176.0/21	 Viettel Group	2,048
+27.74.184.0/21	 Viettel Group	2,048
+27.74.192.0/21	 Viettel Group	2,048
+27.74.200.0/21	 Viettel Group	2,048
+27.74.208.0/21	 Viettel Group	2,048
+27.74.216.0/21	 Viettel Group	2,048
+27.74.224.0/21	 Viettel Group	2,048
+27.74.232.0/21	 Viettel Group	2,048
+27.74.240.0/20	 Viettel Group	4,096
+27.74.240.0/21	 Viettel Group	2,048
+27.74.24.0/21	 Viettel Group	2,048
+27.74.248.0/21	 Viettel Group	2,048
+27.74.32.0/21	 Viettel Group	2,048
+27.74.40.0/21	 Viettel Group	2,048
+27.74.48.0/21	 Viettel Group	2,048
+27.74.56.0/21	 Viettel Group	2,048
+27.74.64.0/21	 Viettel Group	2,048
+27.74.72.0/21	 Viettel Group	2,048
+27.74.80.0/21	 Viettel Group	2,048
+27.74.8.0/21	 Viettel Group	2,048
+27.74.88.0/21	 Viettel Group	2,048
+27.74.96.0/21	 Viettel Group	2,048
+27.75.0.0/16	 Viettel Group	65,536
+27.75.0.0/18	 Viettel Group	16,384
+27.75.0.0/20	 Viettel Group	4,096
+27.75.1.0/24	 Viettel Group	256
+27.75.104.0/21	 Viettel Group	2,048
+27.75.112.0/21	 Viettel Group	2,048
+27.75.120.0/21	 Viettel Group	2,048
+27.75.128.0/18	 Viettel Group	16,384
+27.75.128.0/21	 Viettel Group	2,048
+27.75.136.0/21	 Viettel Group	2,048
+27.75.144.0/21	 Viettel Group	2,048
+27.75.152.0/21	 Viettel Group	2,048
+27.75.160.0/21	 Viettel Group	2,048
+27.75.16.0/21	 Viettel Group	2,048
+27.75.168.0/21	 Viettel Group	2,048
+27.75.176.0/21	 Viettel Group	2,048
+27.75.184.0/21	 Viettel Group	2,048
+27.75.192.0/18	 Viettel Group	16,384
+27.75.192.0/21	 Viettel Group	2,048
+27.75.200.0/21	 Viettel Group	2,048
+27.75.208.0/21	 Viettel Group	2,048
+27.75.216.0/21	 Viettel Group	2,048
+27.75.224.0/21	 Viettel Group	2,048
+27.75.232.0/21	 Viettel Group	2,048
+27.75.240.0/21	 Viettel Group	2,048
+27.75.24.0/21	 Viettel Group	2,048
+27.75.248.0/21	 Viettel Group	2,048
+27.75.32.0/21	 Viettel Group	2,048
+27.75.40.0/21	 Viettel Group	2,048
+27.75.48.0/21	 Viettel Group	2,048
+27.75.56.0/21	 Viettel Group	2,048
+27.75.64.0/21	 Viettel Group	2,048
+27.75.72.0/21	 Viettel Group	2,048
+27.75.80.0/21	 Viettel Group	2,048
+27.75.88.0/21	 Viettel Group	2,048
+27.75.96.0/21	 Viettel Group	2,048
+27.76.0.0/21	 Viettel Group	2,048
+27.76.112.0/20	 Viettel Group	4,096
+27.76.128.0/21	 Viettel Group	2,048
+27.76.136.0/21	 Viettel Group	2,048
+27.76.144.0/21	 Viettel Group	2,048
+27.76.152.0/21	 Viettel Group	2,048
+27.76.160.0/21	 Viettel Group	2,048
+27.76.16.0/22	 Viettel Group	1,024
+27.76.168.0/21	 Viettel Group	2,048
+27.76.176.0/21	 Viettel Group	2,048
+27.76.184.0/21	 Viettel Group	2,048
+27.76.192.0/21	 Viettel Group	2,048
+27.76.200.0/21	 Viettel Group	2,048
+27.76.20.0/22	 Viettel Group	1,024
+27.76.208.0/21	 Viettel Group	2,048
+27.76.216.0/21	 Viettel Group	2,048
+27.76.224.0/21	 Viettel Group	2,048
+27.76.232.0/21	 Viettel Group	2,048
+27.76.240.0/21	 Viettel Group	2,048
+27.76.24.0/22	 Viettel Group	1,024
+27.76.248.0/21	 Viettel Group	2,048
+27.76.28.0/22	 Viettel Group	1,024
+27.76.32.0/20	 Viettel Group	4,096
+27.76.48.0/21	 Viettel Group	2,048
+27.76.56.0/21	 Viettel Group	2,048
+27.76.64.0/22	 Viettel Group	1,024
+27.76.68.0/22	 Viettel Group	1,024
+27.76.72.0/22	 Viettel Group	1,024
+27.76.80.0/21	 Viettel Group	2,048
+27.76.8.0/21	 Viettel Group	2,048
+27.76.88.0/21	 Viettel Group	2,048
+27.76.96.0/20	 Viettel Group	4,096
+27.77.0.0/21	 Viettel Group	2,048
+27.77.104.0/21	 Viettel Group	2,048
+27.77.112.0/22	 Viettel Group	1,024
+27.77.116.0/22	 Viettel Group	1,024
+27.77.120.0/21	 Viettel Group	2,048
+27.77.128.0/21	 Viettel Group	2,048
+27.77.136.0/21	 Viettel Group	2,048
+27.77.144.0/21	 Viettel Group	2,048
+27.77.152.0/21	 Viettel Group	2,048
+27.77.160.0/21	 Viettel Group	2,048
+27.77.16.0/21	 Viettel Group	2,048
+27.77.168.0/21	 Viettel Group	2,048
+27.77.176.0/21	 Viettel Group	2,048
+27.77.184.0/21	 Viettel Group	2,048
+27.77.192.0/21	 Viettel Group	2,048
+27.77.200.0/21	 Viettel Group	2,048
+27.77.208.0/21	 Viettel Group	2,048
+27.77.216.0/21	 Viettel Group	2,048
+27.77.224.0/21	 Viettel Group	2,048
+27.77.232.0/21	 Viettel Group	2,048
+27.77.240.0/21	 Viettel Group	2,048
+27.77.24.0/21	 Viettel Group	2,048
+27.77.248.0/21	 Viettel Group	2,048
+27.77.32.0/21	 Viettel Group	2,048
+27.77.40.0/21	 Viettel Group	2,048
+27.77.48.0/21	 Viettel Group	2,048
+27.77.56.0/21	 Viettel Group	2,048
+27.77.64.0/21	 Viettel Group	2,048
+27.77.72.0/21	 Viettel Group	2,048
+27.77.80.0/21	 Viettel Group	2,048
+27.77.8.0/21	 Viettel Group	2,048
+27.77.88.0/21	 Viettel Group	2,048
+27.77.96.0/21	 Viettel Group	2,048
+27.78.0.0/16	 Viettel Group	65,536
+27.78.112.0/21	 Viettel Group	2,048
+27.78.120.0/21	 Viettel Group	2,048
+27.78.12.0/22	 Viettel Group	1,024
+27.78.12.0/23	 Viettel Group	512
+27.78.128.0/21	 Viettel Group	2,048
+27.78.136.0/21	 Viettel Group	2,048
+27.78.14.0/23	 Viettel Group	512
+27.78.144.0/21	 Viettel Group	2,048
+27.78.152.0/21	 Viettel Group	2,048
+27.78.160.0/21	 Viettel Group	2,048
+27.78.16.0/22	 Viettel Group	1,024
+27.78.16.0/24	 Viettel Group	256
+27.78.168.0/21	 Viettel Group	2,048
+27.78.17.0/24	 Viettel Group	256
+27.78.176.0/21	 Viettel Group	2,048
+27.78.184.0/21	 Viettel Group	2,048
+27.78.192.0/21	 Viettel Group	2,048
+27.78.200.0/21	 Viettel Group	2,048
+27.78.20.0/22	 Viettel Group	1,024
+27.78.20.0/23	 Viettel Group	512
+27.78.208.0/21	 Viettel Group	2,048
+27.78.216.0/21	 Viettel Group	2,048
+27.78.22.0/23	 Viettel Group	512
+27.78.224.0/21	 Viettel Group	2,048
+27.78.232.0/21	 Viettel Group	2,048
+27.78.240.0/21	 Viettel Group	2,048
+27.78.24.0/21	 Viettel Group	2,048
+27.78.248.0/21	 Viettel Group	2,048
+27.78.32.0/22	 Viettel Group	1,024
+27.78.36.0/22	 Viettel Group	1,024
+27.78.40.0/22	 Viettel Group	1,024
+27.78.44.0/22	 Viettel Group	1,024
+27.78.48.0/20	 Viettel Group	4,096
+27.78.64.0/21	 Viettel Group	2,048
+27.78.72.0/21	 Viettel Group	2,048
+27.78.80.0/20	 Viettel Group	4,096
+27.78.96.0/20	 Viettel Group	4,096
+27.79.0.0/21	 Viettel Group	2,048
+27.79.104.0/21	 Viettel Group	2,048
+27.79.112.0/21	 Viettel Group	2,048
+27.79.120.0/21	 Viettel Group	2,048
+27.79.128.0/21	 Viettel Group	2,048
+27.79.136.0/21	 Viettel Group	2,048
+27.79.144.0/21	 Viettel Group	2,048
+27.79.152.0/21	 Viettel Group	2,048
+27.79.160.0/21	 Viettel Group	2,048
+27.79.16.0/21	 Viettel Group	2,048
+27.79.168.0/21	 Viettel Group	2,048
+27.79.176.0/21	 Viettel Group	2,048
+27.79.184.0/21	 Viettel Group	2,048
+27.79.192.0/21	 Viettel Group	2,048
+27.79.200.0/21	 Viettel Group	2,048
+27.79.208.0/21	 Viettel Group	2,048
+27.79.216.0/21	 Viettel Group	2,048
+27.79.224.0/21	 Viettel Group	2,048
+27.79.232.0/21	 Viettel Group	2,048
+27.79.240.0/21	 Viettel Group	2,048
+27.79.24.0/21	 Viettel Group	2,048
+27.79.248.0/21	 Viettel Group	2,048
+27.79.32.0/21	 Viettel Group	2,048
+27.79.40.0/21	 Viettel Group	2,048
+27.79.48.0/21	 Viettel Group	2,048
+27.79.56.0/21	 Viettel Group	2,048
+27.79.64.0/21	 Viettel Group	2,048
+27.79.72.0/21	 Viettel Group	2,048
+27.79.80.0/21	 Viettel Group	2,048
+27.79.8.0/21	 Viettel Group	2,048
+27.79.88.0/21	 Viettel Group	2,048
+27.79.96.0/21	 Viettel Group	2,048
+103.84.76.0/22	 Viettel Group	1,024
+103.84.77.0/24	 Viettel Group	256
+116.100.0.0/21	 Viettel Group	2,048
+116.100.104.0/21	 Viettel Group	2,048
+116.100.112.0/21	 Viettel Group	2,048
+116.100.120.0/21	 Viettel Group	2,048
+116.100.128.0/21	 Viettel Group	2,048
+116.100.136.0/21	 Viettel Group	2,048
+116.100.144.0/21	 Viettel Group	2,048
+116.100.152.0/21	 Viettel Group	2,048
+116.100.160.0/21	 Viettel Group	2,048
+116.100.16.0/21	 Viettel Group	2,048
+116.100.168.0/21	 Viettel Group	2,048
+116.100.176.0/21	 Viettel Group	2,048
+116.100.184.0/21	 Viettel Group	2,048
+116.100.192.0/21	 Viettel Group	2,048
+116.100.200.0/21	 Viettel Group	2,048
+116.100.208.0/21	 Viettel Group	2,048
+116.100.216.0/21	 Viettel Group	2,048
+116.100.224.0/21	 Viettel Group	2,048
+116.100.232.0/21	 Viettel Group	2,048
+116.100.240.0/21	 Viettel Group	2,048
+116.100.24.0/21	 Viettel Group	2,048
+116.100.248.0/21	 Viettel Group	2,048
+116.100.32.0/21	 Viettel Group	2,048
+116.100.40.0/21	 Viettel Group	2,048
+116.100.48.0/21	 Viettel Group	2,048
+116.100.56.0/21	 Viettel Group	2,048
+116.100.64.0/21	 Viettel Group	2,048
+116.100.72.0/21	 Viettel Group	2,048
+116.100.80.0/21	 Viettel Group	2,048
+116.100.8.0/21	 Viettel Group	2,048
+116.100.88.0/21	 Viettel Group	2,048
+116.100.96.0/21	 Viettel Group	2,048
+116.101.0.0/21	 Viettel Group	2,048
+116.101.248.0/21	 Viettel Group	2,048
+116.101.40.0/21	 Viettel Group	2,048
+116.101.60.0/22	 Viettel Group	1,024
+116.101.64.0/21	 Viettel Group	2,048
+116.101.72.0/21	 Viettel Group	2,048
+116.101.8.0/21	 Viettel Group	2,048
+116.102.0.0/21	 Viettel Group	2,048
+116.102.104.0/21	 Viettel Group	2,048
+116.102.128.0/21	 Viettel Group	2,048
+116.102.136.0/21	 Viettel Group	2,048
+116.102.144.0/21	 Viettel Group	2,048
+116.102.152.0/21	 Viettel Group	2,048
+116.102.160.0/21	 Viettel Group	2,048
+116.102.16.0/21	 Viettel Group	2,048
+116.102.168.0/21	 Viettel Group	2,048
+116.102.176.0/21	 Viettel Group	2,048
+116.102.184.0/21	 Viettel Group	2,048
+116.102.192.0/21	 Viettel Group	2,048
+116.102.200.0/21	 Viettel Group	2,048
+116.102.208.0/21	 Viettel Group	2,048
+116.102.216.0/21	 Viettel Group	2,048
+116.102.224.0/21	 Viettel Group	2,048
+116.102.232.0/21	 Viettel Group	2,048
+116.102.240.0/21	 Viettel Group	2,048
+116.102.24.0/21	 Viettel Group	2,048
+116.102.248.0/21	 Viettel Group	2,048
+116.102.32.0/21	 Viettel Group	2,048
+116.102.40.0/21	 Viettel Group	2,048
+116.102.48.0/21	 Viettel Group	2,048
+116.102.56.0/21	 Viettel Group	2,048
+116.102.64.0/21	 Viettel Group	2,048
+116.102.72.0/21	 Viettel Group	2,048
+116.102.80.0/21	 Viettel Group	2,048
+116.102.8.0/21	 Viettel Group	2,048
+116.102.88.0/21	 Viettel Group	2,048
+116.102.96.0/21	 Viettel Group	2,048
+116.103.0.0/21	 Viettel Group	2,048
+116.103.10.0/23	 Viettel Group	512
+116.103.104.0/21	 Viettel Group	2,048
+116.103.112.0/21	 Viettel Group	2,048
+116.103.120.0/21	 Viettel Group	2,048
+116.103.12.0/22	 Viettel Group	1,024
+116.103.128.0/21	 Viettel Group	2,048
+116.103.136.0/21	 Viettel Group	2,048
+116.103.144.0/21	 Viettel Group	2,048
+116.103.152.0/21	 Viettel Group	2,048
+116.103.160.0/21	 Viettel Group	2,048
+116.103.16.0/21	 Viettel Group	2,048
+116.103.168.0/21	 Viettel Group	2,048
+116.103.176.0/21	 Viettel Group	2,048
+116.103.184.0/21	 Viettel Group	2,048
+116.103.192.0/21	 Viettel Group	2,048
+116.103.200.0/21	 Viettel Group	2,048
+116.103.208.0/21	 Viettel Group	2,048
+116.103.216.0/21	 Viettel Group	2,048
+116.103.224.0/21	 Viettel Group	2,048
+116.103.232.0/21	 Viettel Group	2,048
+116.103.240.0/21	 Viettel Group	2,048
+116.103.24.0/21	 Viettel Group	2,048
+116.103.248.0/21	 Viettel Group	2,048
+116.103.32.0/21	 Viettel Group	2,048
+116.103.40.0/21	 Viettel Group	2,048
+116.103.48.0/21	 Viettel Group	2,048
+116.103.56.0/21	 Viettel Group	2,048
+116.103.64.0/21	 Viettel Group	2,048
+116.103.72.0/21	 Viettel Group	2,048
+116.103.80.0/21	 Viettel Group	2,048
+116.103.8.0/23	 Viettel Group	512
+116.103.88.0/21	 Viettel Group	2,048
+116.103.96.0/21	 Viettel Group	2,048
+116.104.232.0/21	 Viettel Group	2,048
+116.104.48.0/20	 Viettel Group	4,096
+116.105.0.0/21	 Viettel Group	2,048
+116.105.104.0/21	 Viettel Group	2,048
+116.105.112.0/21	 Viettel Group	2,048
+116.105.120.0/21	 Viettel Group	2,048
+116.105.128.0/21	 Viettel Group	2,048
+116.105.136.0/21	 Viettel Group	2,048
+116.105.144.0/21	 Viettel Group	2,048
+116.105.152.0/21	 Viettel Group	2,048
+116.105.160.0/21	 Viettel Group	2,048
+116.105.16.0/21	 Viettel Group	2,048
+116.105.168.0/21	 Viettel Group	2,048
+116.105.176.0/21	 Viettel Group	2,048
+116.105.184.0/21	 Viettel Group	2,048
+116.105.192.0/21	 Viettel Group	2,048
+116.105.200.0/21	 Viettel Group	2,048
+116.105.208.0/21	 Viettel Group	2,048
+116.105.216.0/21	 Viettel Group	2,048
+116.105.224.0/20	 Viettel Group	4,096
+116.105.224.0/21	 Viettel Group	2,048
+116.105.224.0/24	 Viettel Group	256
+116.105.226.0/24	 Viettel Group	256
+116.105.227.0/24	 Viettel Group	256
+116.105.228.0/24	 Viettel Group	256
+116.105.229.0/24	 Viettel Group	256
+116.105.230.0/24	 Viettel Group	256
+116.105.231.0/24	 Viettel Group	256
+116.105.232.0/21	 Viettel Group	2,048
+116.105.240.0/21	 Viettel Group	2,048
+116.105.24.0/21	 Viettel Group	2,048
+116.105.248.0/21	 Viettel Group	2,048
+116.105.32.0/21	 Viettel Group	2,048
+116.105.40.0/21	 Viettel Group	2,048
+116.105.48.0/21	 Viettel Group	2,048
+116.105.56.0/21	 Viettel Group	2,048
+116.105.64.0/21	 Viettel Group	2,048
+116.105.72.0/21	 Viettel Group	2,048
+116.105.80.0/21	 Viettel Group	2,048
+116.105.8.0/21	 Viettel Group	2,048
+116.105.88.0/21	 Viettel Group	2,048
+116.105.96.0/21	 Viettel Group	2,048
+116.106.0.0/21	 Viettel Group	2,048
+116.106.112.0/21	 Viettel Group	2,048
+116.106.120.0/21	 Viettel Group	2,048
+116.106.128.0/21	 Viettel Group	2,048
+116.106.136.0/21	 Viettel Group	2,048
+116.106.144.0/21	 Viettel Group	2,048
+116.106.152.0/21	 Viettel Group	2,048
+116.106.160.0/21	 Viettel Group	2,048
+116.106.16.0/21	 Viettel Group	2,048
+116.106.168.0/21	 Viettel Group	2,048
+116.106.176.0/21	 Viettel Group	2,048
+116.106.184.0/21	 Viettel Group	2,048
+116.106.192.0/21	 Viettel Group	2,048
+116.106.200.0/21	 Viettel Group	2,048
+116.106.208.0/21	 Viettel Group	2,048
+116.106.216.0/21	 Viettel Group	2,048
+116.106.224.0/21	 Viettel Group	2,048
+116.106.232.0/21	 Viettel Group	2,048
+116.106.240.0/21	 Viettel Group	2,048
+116.106.24.0/21	 Viettel Group	2,048
+116.106.248.0/21	 Viettel Group	2,048
+116.106.32.0/21	 Viettel Group	2,048
+116.106.40.0/21	 Viettel Group	2,048
+116.106.48.0/21	 Viettel Group	2,048
+116.106.56.0/21	 Viettel Group	2,048
+116.106.64.0/21	 Viettel Group	2,048
+116.106.72.0/21	 Viettel Group	2,048
+116.106.80.0/21	 Viettel Group	2,048
+116.106.8.0/21	 Viettel Group	2,048
+116.106.88.0/21	 Viettel Group	2,048
+116.107.144.0/21	 Viettel Group	2,048
+116.108.0.0/21	 Viettel Group	2,048
+116.108.104.0/21	 Viettel Group	2,048
+116.108.112.0/21	 Viettel Group	2,048
+116.108.120.0/21	 Viettel Group	2,048
+116.108.128.0/21	 Viettel Group	2,048
+116.108.136.0/21	 Viettel Group	2,048
+116.108.144.0/21	 Viettel Group	2,048
+116.108.152.0/21	 Viettel Group	2,048
+116.108.160.0/21	 Viettel Group	2,048
+116.108.16.0/21	 Viettel Group	2,048
+116.108.168.0/21	 Viettel Group	2,048
+116.108.176.0/21	 Viettel Group	2,048
+116.108.184.0/21	 Viettel Group	2,048
+116.108.192.0/21	 Viettel Group	2,048
+116.108.200.0/21	 Viettel Group	2,048
+116.108.208.0/21	 Viettel Group	2,048
+116.108.216.0/21	 Viettel Group	2,048
+116.108.224.0/21	 Viettel Group	2,048
+116.108.232.0/21	 Viettel Group	2,048
+116.108.240.0/21	 Viettel Group	2,048
+116.108.24.0/21	 Viettel Group	2,048
+116.108.248.0/21	 Viettel Group	2,048
+116.108.32.0/21	 Viettel Group	2,048
+116.108.40.0/21	 Viettel Group	2,048
+116.108.48.0/21	 Viettel Group	2,048
+116.108.56.0/21	 Viettel Group	2,048
+116.108.64.0/21	 Viettel Group	2,048
+116.108.72.0/21	 Viettel Group	2,048
+116.108.80.0/21	 Viettel Group	2,048
+116.108.8.0/21	 Viettel Group	2,048
+116.108.88.0/21	 Viettel Group	2,048
+116.108.96.0/21	 Viettel Group	2,048
+116.109.0.0/21	 Viettel Group	2,048
+116.109.104.0/21	 Viettel Group	2,048
+116.109.112.0/21	 Viettel Group	2,048
+116.109.120.0/21	 Viettel Group	2,048
+116.109.128.0/21	 Viettel Group	2,048
+116.109.136.0/21	 Viettel Group	2,048
+116.109.144.0/21	 Viettel Group	2,048
+116.109.152.0/21	 Viettel Group	2,048
+116.109.160.0/21	 Viettel Group	2,048
+116.109.16.0/21	 Viettel Group	2,048
+116.109.168.0/21	 Viettel Group	2,048
+116.109.176.0/21	 Viettel Group	2,048
+116.109.184.0/21	 Viettel Group	2,048
+116.109.192.0/21	 Viettel Group	2,048
+116.109.200.0/21	 Viettel Group	2,048
+116.109.208.0/21	 Viettel Group	2,048
+116.109.216.0/21	 Viettel Group	2,048
+116.109.224.0/21	 Viettel Group	2,048
+116.109.232.0/21	 Viettel Group	2,048
+116.109.240.0/21	 Viettel Group	2,048
+116.109.24.0/21	 Viettel Group	2,048
+116.109.248.0/21	 Viettel Group	2,048
+116.109.32.0/21	 Viettel Group	2,048
+116.109.40.0/21	 Viettel Group	2,048
+116.109.48.0/21	 Viettel Group	2,048
+116.109.56.0/21	 Viettel Group	2,048
+116.109.64.0/21	 Viettel Group	2,048
+116.109.72.0/21	 Viettel Group	2,048
+116.109.80.0/21	 Viettel Group	2,048
+116.109.8.0/21	 Viettel Group	2,048
+116.109.88.0/21	 Viettel Group	2,048
+116.109.96.0/21	 Viettel Group	2,048
+116.110.0.0/21	 Viettel Group	2,048
+116.110.104.0/21	 Viettel Group	2,048
+116.110.112.0/21	 Viettel Group	2,048
+116.110.120.0/21	 Viettel Group	2,048
+116.110.128.0/20	 Viettel Group	4,096
+116.110.128.0/22	 Viettel Group	1,024
+116.110.132.0/24	 Viettel Group	256
+116.110.133.0/24	 Viettel Group	256
+116.110.134.0/23	 Viettel Group	512
+116.110.134.0/24	 Viettel Group	256
+116.110.135.0/24	 Viettel Group	256
+116.110.136.0/23	 Viettel Group	512
+116.110.136.0/24	 Viettel Group	256
+116.110.137.0/24	 Viettel Group	256
+116.110.138.0/24	 Viettel Group	256
+116.110.140.0/23	 Viettel Group	512
+116.110.142.0/24	 Viettel Group	256
+116.110.144.0/21	 Viettel Group	2,048
+116.110.152.0/21	 Viettel Group	2,048
+116.110.160.0/21	 Viettel Group	2,048
+116.110.16.0/21	 Viettel Group	2,048
+116.110.168.0/21	 Viettel Group	2,048
+116.110.176.0/21	 Viettel Group	2,048
+116.110.184.0/21	 Viettel Group	2,048
+116.110.192.0/21	 Viettel Group	2,048
+116.110.200.0/21	 Viettel Group	2,048
+116.110.208.0/21	 Viettel Group	2,048
+116.110.216.0/21	 Viettel Group	2,048
+116.110.224.0/22	 Viettel Group	1,024
+116.110.228.0/22	 Viettel Group	1,024
+116.110.232.0/22	 Viettel Group	1,024
+116.110.236.0/22	 Viettel Group	1,024
+116.110.240.0/21	 Viettel Group	2,048
+116.110.24.0/21	 Viettel Group	2,048
+116.110.248.0/21	 Viettel Group	2,048
+116.110.32.0/21	 Viettel Group	2,048
+116.110.40.0/21	 Viettel Group	2,048
+116.110.48.0/21	 Viettel Group	2,048
+116.110.56.0/21	 Viettel Group	2,048
+116.110.64.0/21	 Viettel Group	2,048
+116.110.72.0/21	 Viettel Group	2,048
+116.110.80.0/21	 Viettel Group	2,048
+116.110.8.0/21	 Viettel Group	2,048
+116.110.88.0/21	 Viettel Group	2,048
+116.110.96.0/21	 Viettel Group	2,048
+116.111.0.0/21	 Viettel Group	2,048
+116.111.128.0/21	 Viettel Group	2,048
+116.111.136.0/21	 Viettel Group	2,048
+116.111.144.0/21	 Viettel Group	2,048
+116.111.152.0/21	 Viettel Group	2,048
+116.111.160.0/21	 Viettel Group	2,048
+116.111.168.0/21	 Viettel Group	2,048
+116.111.176.0/21	 Viettel Group	2,048
+116.111.184.0/21	 Viettel Group	2,048
+116.111.192.0/21	 Viettel Group	2,048
+116.111.200.0/21	 Viettel Group	2,048
+116.111.208.0/21	 Viettel Group	2,048
+116.111.216.0/21	 Viettel Group	2,048
+116.111.224.0/21	 Viettel Group	2,048
+116.111.232.0/21	 Viettel Group	2,048
+116.111.240.0/23	 Viettel Group	512
+116.111.242.0/23	 Viettel Group	512
+116.111.244.0/23	 Viettel Group	512
+116.111.246.0/23	 Viettel Group	512
+116.111.8.0/21	 Viettel Group	2,048
+116.96.0.0/16	 Viettel Group	65,536
+116.96.0.0/17	 Viettel Group	32,768
+116.96.128.0/17	 Viettel Group	32,768
+116.96.168.0/21	 Viettel Group	2,048
+116.97.0.0/16	 Viettel Group	65,536
+116.97.0.0/17	 Viettel Group	32,768
+116.97.118.0/24	 Viettel Group	256
+116.97.119.0/24	 Viettel Group	256
+116.97.128.0/17	 Viettel Group	32,768
+116.98.0.0/16	 Viettel Group	65,536
+116.98.0.0/17	 Viettel Group	32,768
+116.98.0.0/18	 Viettel Group	16,384
+116.98.0.0/20	 Viettel Group	4,096
+116.98.104.0/21	 Viettel Group	2,048
+116.98.128.0/18	 Viettel Group	16,384
+116.98.128.0/19	 Viettel Group	8,192
+116.98.128.0/21	 Viettel Group	2,048
+116.98.144.0/21	 Viettel Group	2,048
+116.98.152.0/21	 Viettel Group	2,048
+116.98.160.0/19	 Viettel Group	8,192
+116.98.160.0/21	 Viettel Group	2,048
+116.98.16.0/21	 Viettel Group	2,048
+116.98.168.0/21	 Viettel Group	2,048
+116.98.176.0/21	 Viettel Group	2,048
+116.98.184.0/21	 Viettel Group	2,048
+116.98.192.0/21	 Viettel Group	2,048
+116.98.200.0/21	 Viettel Group	2,048
+116.98.208.0/21	 Viettel Group	2,048
+116.98.216.0/21	 Viettel Group	2,048
+116.98.224.0/21	 Viettel Group	2,048
+116.98.232.0/21	 Viettel Group	2,048
+116.98.240.0/21	 Viettel Group	2,048
+116.98.24.0/21	 Viettel Group	2,048
+116.98.248.0/21	 Viettel Group	2,048
+116.98.32.0/21	 Viettel Group	2,048
+116.98.40.0/21	 Viettel Group	2,048
+116.98.48.0/21	 Viettel Group	2,048
+116.98.56.0/21	 Viettel Group	2,048
+116.98.64.0/18	 Viettel Group	16,384
+116.98.64.0/21	 Viettel Group	2,048
+116.98.72.0/21	 Viettel Group	2,048
+116.98.80.0/21	 Viettel Group	2,048
+116.98.88.0/21	 Viettel Group	2,048
+116.98.96.0/21	 Viettel Group	2,048
+116.99.0.0/16	 Viettel Group	65,536
+116.99.0.0/17	 Viettel Group	32,768
+116.99.0.0/21	 Viettel Group	2,048
+116.99.104.0/21	 Viettel Group	2,048
+116.99.112.0/21	 Viettel Group	2,048
+116.99.120.0/21	 Viettel Group	2,048
+116.99.12.0/22	 Viettel Group	1,024
+116.99.128.0/17	 Viettel Group	32,768
+116.99.128.0/21	 Viettel Group	2,048
+116.99.136.0/21	 Viettel Group	2,048
+116.99.144.0/21	 Viettel Group	2,048
+116.99.152.0/21	 Viettel Group	2,048
+116.99.160.0/21	 Viettel Group	2,048
+116.99.16.0/21	 Viettel Group	2,048
+116.99.168.0/21	 Viettel Group	2,048
+116.99.176.0/21	 Viettel Group	2,048
+116.99.184.0/21	 Viettel Group	2,048
+116.99.192.0/21	 Viettel Group	2,048
+116.99.200.0/21	 Viettel Group	2,048
+116.99.208.0/21	 Viettel Group	2,048
+116.99.216.0/21	 Viettel Group	2,048
+116.99.224.0/21	 Viettel Group	2,048
+116.99.232.0/21	 Viettel Group	2,048
+116.99.240.0/21	 Viettel Group	2,048
+116.99.24.0/21	 Viettel Group	2,048
+116.99.248.0/21	 Viettel Group	2,048
+116.99.32.0/22	 Viettel Group	1,024
+116.99.36.0/22	 Viettel Group	1,024
+116.99.40.0/22	 Viettel Group	1,024
+116.99.44.0/22	 Viettel Group	1,024
+116.99.48.0/24	 Viettel Group	256
+116.99.52.0/22	 Viettel Group	1,024
+116.99.56.0/21	 Viettel Group	2,048
+116.99.80.0/20	 Viettel Group	4,096
+116.99.80.0/21	 Viettel Group	2,048
+116.99.8.0/22	 Viettel Group	1,024
+116.99.88.0/21	 Viettel Group	2,048
+116.99.96.0/20	 Viettel Group	4,096
+116.99.96.0/21	 Viettel Group	2,048
+125.212.128.0/18	 Viettel Group	16,384
+125.212.128.0/20	 Viettel Group	4,096
+125.212.128.0/21	 Viettel Group	2,048
+125.212.128.0/24	 Viettel Group	256
+125.212.137.0/24	 Viettel Group	256
+125.214.0.0/18	 Viettel Group	16,384
+125.214.0.0/20	 ip range assigned for Internet CDMA Service in Northern Area	4,096
+125.214.0.0/21	 ip range assigned for Internet CDMA Service in Northern Area	2,048
+125.214.16.0/20	 ip range assigned for broadband internet service in Northern Area	4,096
+125.214.16.0/21	 ip range assigned for broadband internet service in Middle Area	2,048
+125.214.20.0/22	 ip range assigned for broadband internet service in Middle Area	1,024
+125.214.24.0/21	 ip range assigned for broadband internet service in Northern Area	2,048
+125.214.24.0/22	 ip range assigned for broadband internet service in Northern Area	1,024
+125.214.35.0/24	 ip range assigned for broadband internet service in Southern Area	256
+125.214.47.0/24	 ip range assign for Customer Connection Network in Southern Area	256
+125.214.8.0/21	 ip range assigned for Internet CDMA Service in Northern Area	2,048
+203.190.160.0/20	 Viettel Group	4,096
+203.190.160.0/22	 ip range allocate for leasedline customer of Electric Telecom Company (ETC)	1,024
+203.190.160.0/23	 ip range allocate for leasedline customer of Electric Telecom Company (ETC)	512
+203.190.162.0/23	 ip range assigned for northern voice ip network of ETC	512
+203.190.163.0/24	 ip range assigned for ETC's core internet network in Ha Noi	256
+203.190.164.0/23	 ip range allocate for leasedline customer of Electric Telecom Company (ETC)	512
+203.190.166.0/23	 ip range allocate for leasedline customer of Electric Telecom Company (ETC)	512
+203.190.166.0/24	 Dai hoc Da nang	256
+203.190.175.0/24	 ip range assigned for broadband internet service in Southern Area	256

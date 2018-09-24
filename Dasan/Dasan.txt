@@ -1,0 +1,6 @@
+MAKING LIST FOR DASAN
+_______________________________
+1. sh zmap.sh
+2. zmap -p8080 -wdasan.lst -oload.txt -B70m
+3. python dasan.py load.txt
+________________________________________________________
